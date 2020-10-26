@@ -6,7 +6,7 @@ two 2-digit numbers is 9009 = 91 × 99.
 Find the largest palindrome made from 
 the product of two 3-digit numbers.
 
-answer : 90909
+answer : 906609
 */
 
 #include <iostream>
@@ -27,7 +27,7 @@ bool isPalindrome(int number)
         }
         
     } 
-    
+
     if (flag == 0)
     {
         return true;
@@ -40,29 +40,25 @@ bool isPalindrome(int number)
 
 int largestPalindrome(int digits)
 {
-    std::string str1 = "";
-    std::string str2 = "";
+    std::string str = "";
 
     for (int i = 0; i < digits; i++)
     {
-        str1.append(std::to_string(9));
-        str2.append(std::to_string(9));
+        str.append(std::to_string(9));
     }
 
-    int num1 = std::stoi(str1);
-    int num2 = std::stoi(str2);
-    int largest = num1;
+    int largest = 0;
 
-    for (num1; num1>1; num1--)
+    for (int i = std::stoi(str); i>1; i--)
     {
-        for (num2; num2>1; num2--)
+        for (int j = std::stoi(str); j>1; j--)
         {
-            if (isPalindrome(num1*num2) == true and num1*num2 > largest)
-            {
-                largest = num1*num2;
+            if (isPalindrome(i*j) == true and i*j > largest)
+            {                
+                largest = i*j;
                 break;
-            }            
-        }        
+            }        
+        }       
     }  
     return largest;    
 }
