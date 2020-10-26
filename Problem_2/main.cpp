@@ -8,7 +8,7 @@ terms will be:
 By considering the terms in the Fibonacci sequence whose values 
 do not exceed four million, find the sum of the even-valued terms.
 
-answer : 6291450
+answer : 12582906
 */
 
 #include <iostream>
@@ -20,16 +20,15 @@ int sumEvenFibonacci(int n)
     int term3 = 0;
     int sumEven = 0;
 
-    while(sumEven<n)
+    while(term3<n)
     {
         term3 = term1 + term2;      
         if(term3%2 == 0)
         {
-            sumEven = sumEven + term3;
+            sumEven = sumEven + term3;            
         }
-        term2 = term3;
         term1 = term2;
-
+        term2 = term3;
     }
     return sumEven;
 }
