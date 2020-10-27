@@ -8,7 +8,7 @@ terms will be:
 By considering the terms in the Fibonacci sequence whose values 
 do not exceed four million, find the sum of the even-valued terms.
 
-answer : 12582906
+answer : 4613732
 */
 
 #include <iostream>
@@ -30,7 +30,7 @@ int sumEvenFibonacci(int n)
         term1 = term2;
         term2 = term3;
     }
-    return sumEven;
+    return sumEven + 2;
 }
 
 int main()
