@@ -7,7 +7,7 @@ My own solutions to the series of computational problems from the website [Proje
 
 Problem ID | Solved | Date
 :---:|:---:|---
-1 | :heavy_check_mark: | Sun, 25 Oct 2020
+[1](Problem_1/main.cpp) | :heavy_check_mark: | Sun, 25 Oct 2020
 2 | :heavy_check_mark: | Tue, 27 Oct 2020
 3 | :heavy_check_mark: | Tue, 27 Oct 2020
 4 | :heavy_check_mark: | Sun, 25 Oct 2020
