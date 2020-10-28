@@ -3,6 +3,8 @@ My own solutions to the series of computational problems from the website [Proje
 
 problems solved : 5 / 721
 
+target : get 50 solved by 31 Dec 2020
+
 Problem ID | Solved | Date
 :---:|:---:|---
 1 | :heavy_check_mark: | Sun, 25 Oct 2020
