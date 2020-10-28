@@ -1,5 +1,7 @@
 # ProjectEuler
-My own solutions to the series of computational problems from the website [Project Euler](https://projecteuler.net/) - That's how I started to learn C++ :computer:
+My own solutions to the series of computational problems from the website [Project Euler](https://projecteuler.net/) 
+
+This is how I started learning C++ ! :computer:
 
 :pushpin: problems solved : 5 / 721
 
