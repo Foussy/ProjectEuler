@@ -7,5 +7,6 @@ Problem N° | Solved | Date
 2 | :heavy_check_mark: | Tue, 27 Oct 2020
 3 | :heavy_check_mark: | Tue, 27 Oct 2020
 4 | :heavy_check_mark: | Sun, 25 Oct 2020
-5 | :x: | ---
+5 | :heavy_check_mark: | Wed, 28 Oct 2020
+6 | :x: | ---
 
