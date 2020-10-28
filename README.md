@@ -1,9 +1,9 @@
 # ProjectEuler
 My own solutions to the series of computational problems from the website [Project Euler](https://projecteuler.net/) - That's how I started to learn C++ :computer:
 
-problems solved : 5 / 721
+:pushpin: problems solved : 5 / 721
 
-target : get 50 solved by 31 Dec 2020
+:dart: target : get 50 solved by 31 Dec 2020
 
 Problem ID | Solved | Date
 :---:|:---:|---
