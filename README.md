@@ -7,724 +7,724 @@ My own solutions to the series of computational problems from the website [Proje
 
 Problem ID | Solved | Date
 :---:|:---:|---
-[1](Problem_1/main.cpp) | :heavy_check_mark: | Sun, 25 Oct 2020
-2 | :heavy_check_mark: | Tue, 27 Oct 2020
-3 | :heavy_check_mark: | Tue, 27 Oct 2020
-4 | :heavy_check_mark: | Sun, 25 Oct 2020
-5 | :heavy_check_mark: | Wed, 28 Oct 2020
-6	|	:x:	|	---
-7	|	:x:	|	---
-8	|	:x:	|	---
-9	|	:x:	|	---
-10	|	:x:	|	---
-11	|	:x:	|	---
-12	|	:x:	|	---
-13	|	:x:	|	---
-14	|	:x:	|	---
-15	|	:x:	|	---
-16	|	:x:	|	---
-17	|	:x:	|	---
-18	|	:x:	|	---
-19	|	:x:	|	---
-20	|	:x:	|	---
-21	|	:x:	|	---
-22	|	:x:	|	---
-23	|	:x:	|	---
-24	|	:x:	|	---
-25	|	:x:	|	---
-26	|	:x:	|	---
-27	|	:x:	|	---
-28	|	:x:	|	---
-29	|	:x:	|	---
-30	|	:x:	|	---
-31	|	:x:	|	---
-32	|	:x:	|	---
-33	|	:x:	|	---
-34	|	:x:	|	---
-35	|	:x:	|	---
-36	|	:x:	|	---
-37	|	:x:	|	---
-38	|	:x:	|	---
-39	|	:x:	|	---
-40	|	:x:	|	---
-41	|	:x:	|	---
-42	|	:x:	|	---
-43	|	:x:	|	---
-44	|	:x:	|	---
-45	|	:x:	|	---
-46	|	:x:	|	---
-47	|	:x:	|	---
-48	|	:x:	|	---
-49	|	:x:	|	---
-50	|	:x:	|	---
-51	|	:x:	|	---
-52	|	:x:	|	---
-53	|	:x:	|	---
-54	|	:x:	|	---
-55	|	:x:	|	---
-56	|	:x:	|	---
-57	|	:x:	|	---
-58	|	:x:	|	---
-59	|	:x:	|	---
-60	|	:x:	|	---
-61	|	:x:	|	---
-62	|	:x:	|	---
-63	|	:x:	|	---
-64	|	:x:	|	---
-65	|	:x:	|	---
-66	|	:x:	|	---
-67	|	:x:	|	---
-68	|	:x:	|	---
-69	|	:x:	|	---
-70	|	:x:	|	---
-71	|	:x:	|	---
-72	|	:x:	|	---
-73	|	:x:	|	---
-74	|	:x:	|	---
-75	|	:x:	|	---
-76	|	:x:	|	---
-77	|	:x:	|	---
-78	|	:x:	|	---
-79	|	:x:	|	---
-80	|	:x:	|	---
-81	|	:x:	|	---
-82	|	:x:	|	---
-83	|	:x:	|	---
-84	|	:x:	|	---
-85	|	:x:	|	---
-86	|	:x:	|	---
-87	|	:x:	|	---
-88	|	:x:	|	---
-89	|	:x:	|	---
-90	|	:x:	|	---
-91	|	:x:	|	---
-92	|	:x:	|	---
-93	|	:x:	|	---
-94	|	:x:	|	---
-95	|	:x:	|	---
-96	|	:x:	|	---
-97	|	:x:	|	---
-98	|	:x:	|	---
-99	|	:x:	|	---
-100	|	:x:	|	---
-101	|	:x:	|	---
-102	|	:x:	|	---
-103	|	:x:	|	---
-104	|	:x:	|	---
-105	|	:x:	|	---
-106	|	:x:	|	---
-107	|	:x:	|	---
-108	|	:x:	|	---
-109	|	:x:	|	---
-110	|	:x:	|	---
-111	|	:x:	|	---
-112	|	:x:	|	---
-113	|	:x:	|	---
-114	|	:x:	|	---
-115	|	:x:	|	---
-116	|	:x:	|	---
-117	|	:x:	|	---
-118	|	:x:	|	---
-119	|	:x:	|	---
-120	|	:x:	|	---
-121	|	:x:	|	---
-122	|	:x:	|	---
-123	|	:x:	|	---
-124	|	:x:	|	---
-125	|	:x:	|	---
-126	|	:x:	|	---
-127	|	:x:	|	---
-128	|	:x:	|	---
-129	|	:x:	|	---
-130	|	:x:	|	---
-131	|	:x:	|	---
-132	|	:x:	|	---
-133	|	:x:	|	---
-134	|	:x:	|	---
-135	|	:x:	|	---
-136	|	:x:	|	---
-137	|	:x:	|	---
-138	|	:x:	|	---
-139	|	:x:	|	---
-140	|	:x:	|	---
-141	|	:x:	|	---
-142	|	:x:	|	---
-143	|	:x:	|	---
-144	|	:x:	|	---
-145	|	:x:	|	---
-146	|	:x:	|	---
-147	|	:x:	|	---
-148	|	:x:	|	---
-149	|	:x:	|	---
-150	|	:x:	|	---
-151	|	:x:	|	---
-152	|	:x:	|	---
-153	|	:x:	|	---
-154	|	:x:	|	---
-155	|	:x:	|	---
-156	|	:x:	|	---
-157	|	:x:	|	---
-158	|	:x:	|	---
-159	|	:x:	|	---
-160	|	:x:	|	---
-161	|	:x:	|	---
-162	|	:x:	|	---
-163	|	:x:	|	---
-164	|	:x:	|	---
-165	|	:x:	|	---
-166	|	:x:	|	---
-167	|	:x:	|	---
-168	|	:x:	|	---
-169	|	:x:	|	---
-170	|	:x:	|	---
-171	|	:x:	|	---
-172	|	:x:	|	---
-173	|	:x:	|	---
-174	|	:x:	|	---
-175	|	:x:	|	---
-176	|	:x:	|	---
-177	|	:x:	|	---
-178	|	:x:	|	---
-179	|	:x:	|	---
-180	|	:x:	|	---
-181	|	:x:	|	---
-182	|	:x:	|	---
-183	|	:x:	|	---
-184	|	:x:	|	---
-185	|	:x:	|	---
-186	|	:x:	|	---
-187	|	:x:	|	---
-188	|	:x:	|	---
-189	|	:x:	|	---
-190	|	:x:	|	---
-191	|	:x:	|	---
-192	|	:x:	|	---
-193	|	:x:	|	---
-194	|	:x:	|	---
-195	|	:x:	|	---
-196	|	:x:	|	---
-197	|	:x:	|	---
-198	|	:x:	|	---
-199	|	:x:	|	---
-200	|	:x:	|	---
-201	|	:x:	|	---
-202	|	:x:	|	---
-203	|	:x:	|	---
-204	|	:x:	|	---
-205	|	:x:	|	---
-206	|	:x:	|	---
-207	|	:x:	|	---
-208	|	:x:	|	---
-209	|	:x:	|	---
-210	|	:x:	|	---
-211	|	:x:	|	---
-212	|	:x:	|	---
-213	|	:x:	|	---
-214	|	:x:	|	---
-215	|	:x:	|	---
-216	|	:x:	|	---
-217	|	:x:	|	---
-218	|	:x:	|	---
-219	|	:x:	|	---
-220	|	:x:	|	---
-221	|	:x:	|	---
-222	|	:x:	|	---
-223	|	:x:	|	---
-224	|	:x:	|	---
-225	|	:x:	|	---
-226	|	:x:	|	---
-227	|	:x:	|	---
-228	|	:x:	|	---
-229	|	:x:	|	---
-230	|	:x:	|	---
-231	|	:x:	|	---
-232	|	:x:	|	---
-233	|	:x:	|	---
-234	|	:x:	|	---
-235	|	:x:	|	---
-236	|	:x:	|	---
-237	|	:x:	|	---
-238	|	:x:	|	---
-239	|	:x:	|	---
-240	|	:x:	|	---
-241	|	:x:	|	---
-242	|	:x:	|	---
-243	|	:x:	|	---
-244	|	:x:	|	---
-245	|	:x:	|	---
-246	|	:x:	|	---
-247	|	:x:	|	---
-248	|	:x:	|	---
-249	|	:x:	|	---
-250	|	:x:	|	---
-251	|	:x:	|	---
-252	|	:x:	|	---
-253	|	:x:	|	---
-254	|	:x:	|	---
-255	|	:x:	|	---
-256	|	:x:	|	---
-257	|	:x:	|	---
-258	|	:x:	|	---
-259	|	:x:	|	---
-260	|	:x:	|	---
-261	|	:x:	|	---
-262	|	:x:	|	---
-263	|	:x:	|	---
-264	|	:x:	|	---
-265	|	:x:	|	---
-266	|	:x:	|	---
-267	|	:x:	|	---
-268	|	:x:	|	---
-269	|	:x:	|	---
-270	|	:x:	|	---
-271	|	:x:	|	---
-272	|	:x:	|	---
-273	|	:x:	|	---
-274	|	:x:	|	---
-275	|	:x:	|	---
-276	|	:x:	|	---
-277	|	:x:	|	---
-278	|	:x:	|	---
-279	|	:x:	|	---
-280	|	:x:	|	---
-281	|	:x:	|	---
-282	|	:x:	|	---
-283	|	:x:	|	---
-284	|	:x:	|	---
-285	|	:x:	|	---
-286	|	:x:	|	---
-287	|	:x:	|	---
-288	|	:x:	|	---
-289	|	:x:	|	---
-290	|	:x:	|	---
-291	|	:x:	|	---
-292	|	:x:	|	---
-293	|	:x:	|	---
-294	|	:x:	|	---
-295	|	:x:	|	---
-296	|	:x:	|	---
-297	|	:x:	|	---
-298	|	:x:	|	---
-299	|	:x:	|	---
-300	|	:x:	|	---
-301	|	:x:	|	---
-302	|	:x:	|	---
-303	|	:x:	|	---
-304	|	:x:	|	---
-305	|	:x:	|	---
-306	|	:x:	|	---
-307	|	:x:	|	---
-308	|	:x:	|	---
-309	|	:x:	|	---
-310	|	:x:	|	---
-311	|	:x:	|	---
-312	|	:x:	|	---
-313	|	:x:	|	---
-314	|	:x:	|	---
-315	|	:x:	|	---
-316	|	:x:	|	---
-317	|	:x:	|	---
-318	|	:x:	|	---
-319	|	:x:	|	---
-320	|	:x:	|	---
-321	|	:x:	|	---
-322	|	:x:	|	---
-323	|	:x:	|	---
-324	|	:x:	|	---
-325	|	:x:	|	---
-326	|	:x:	|	---
-327	|	:x:	|	---
-328	|	:x:	|	---
-329	|	:x:	|	---
-330	|	:x:	|	---
-331	|	:x:	|	---
-332	|	:x:	|	---
-333	|	:x:	|	---
-334	|	:x:	|	---
-335	|	:x:	|	---
-336	|	:x:	|	---
-337	|	:x:	|	---
-338	|	:x:	|	---
-339	|	:x:	|	---
-340	|	:x:	|	---
-341	|	:x:	|	---
-342	|	:x:	|	---
-343	|	:x:	|	---
-344	|	:x:	|	---
-345	|	:x:	|	---
-346	|	:x:	|	---
-347	|	:x:	|	---
-348	|	:x:	|	---
-349	|	:x:	|	---
-350	|	:x:	|	---
-351	|	:x:	|	---
-352	|	:x:	|	---
-353	|	:x:	|	---
-354	|	:x:	|	---
-355	|	:x:	|	---
-356	|	:x:	|	---
-357	|	:x:	|	---
-358	|	:x:	|	---
-359	|	:x:	|	---
-360	|	:x:	|	---
-361	|	:x:	|	---
-362	|	:x:	|	---
-363	|	:x:	|	---
-364	|	:x:	|	---
-365	|	:x:	|	---
-366	|	:x:	|	---
-367	|	:x:	|	---
-368	|	:x:	|	---
-369	|	:x:	|	---
-370	|	:x:	|	---
-371	|	:x:	|	---
-372	|	:x:	|	---
-373	|	:x:	|	---
-374	|	:x:	|	---
-375	|	:x:	|	---
-376	|	:x:	|	---
-377	|	:x:	|	---
-378	|	:x:	|	---
-379	|	:x:	|	---
-380	|	:x:	|	---
-381	|	:x:	|	---
-382	|	:x:	|	---
-383	|	:x:	|	---
-384	|	:x:	|	---
-385	|	:x:	|	---
-386	|	:x:	|	---
-387	|	:x:	|	---
-388	|	:x:	|	---
-389	|	:x:	|	---
-390	|	:x:	|	---
-391	|	:x:	|	---
-392	|	:x:	|	---
-393	|	:x:	|	---
-394	|	:x:	|	---
-395	|	:x:	|	---
-396	|	:x:	|	---
-397	|	:x:	|	---
-398	|	:x:	|	---
-399	|	:x:	|	---
-400	|	:x:	|	---
-401	|	:x:	|	---
-402	|	:x:	|	---
-403	|	:x:	|	---
-404	|	:x:	|	---
-405	|	:x:	|	---
-406	|	:x:	|	---
-407	|	:x:	|	---
-408	|	:x:	|	---
-409	|	:x:	|	---
-410	|	:x:	|	---
-411	|	:x:	|	---
-412	|	:x:	|	---
-413	|	:x:	|	---
-414	|	:x:	|	---
-415	|	:x:	|	---
-416	|	:x:	|	---
-417	|	:x:	|	---
-418	|	:x:	|	---
-419	|	:x:	|	---
-420	|	:x:	|	---
-421	|	:x:	|	---
-422	|	:x:	|	---
-423	|	:x:	|	---
-424	|	:x:	|	---
-425	|	:x:	|	---
-426	|	:x:	|	---
-427	|	:x:	|	---
-428	|	:x:	|	---
-429	|	:x:	|	---
-430	|	:x:	|	---
-431	|	:x:	|	---
-432	|	:x:	|	---
-433	|	:x:	|	---
-434	|	:x:	|	---
-435	|	:x:	|	---
-436	|	:x:	|	---
-437	|	:x:	|	---
-438	|	:x:	|	---
-439	|	:x:	|	---
-440	|	:x:	|	---
-441	|	:x:	|	---
-442	|	:x:	|	---
-443	|	:x:	|	---
-444	|	:x:	|	---
-445	|	:x:	|	---
-446	|	:x:	|	---
-447	|	:x:	|	---
-448	|	:x:	|	---
-449	|	:x:	|	---
-450	|	:x:	|	---
-451	|	:x:	|	---
-452	|	:x:	|	---
-453	|	:x:	|	---
-454	|	:x:	|	---
-455	|	:x:	|	---
-456	|	:x:	|	---
-457	|	:x:	|	---
-458	|	:x:	|	---
-459	|	:x:	|	---
-460	|	:x:	|	---
-461	|	:x:	|	---
-462	|	:x:	|	---
-463	|	:x:	|	---
-464	|	:x:	|	---
-465	|	:x:	|	---
-466	|	:x:	|	---
-467	|	:x:	|	---
-468	|	:x:	|	---
-469	|	:x:	|	---
-470	|	:x:	|	---
-471	|	:x:	|	---
-472	|	:x:	|	---
-473	|	:x:	|	---
-474	|	:x:	|	---
-475	|	:x:	|	---
-476	|	:x:	|	---
-477	|	:x:	|	---
-478	|	:x:	|	---
-479	|	:x:	|	---
-480	|	:x:	|	---
-481	|	:x:	|	---
-482	|	:x:	|	---
-483	|	:x:	|	---
-484	|	:x:	|	---
-485	|	:x:	|	---
-486	|	:x:	|	---
-487	|	:x:	|	---
-488	|	:x:	|	---
-489	|	:x:	|	---
-490	|	:x:	|	---
-491	|	:x:	|	---
-492	|	:x:	|	---
-493	|	:x:	|	---
-494	|	:x:	|	---
-495	|	:x:	|	---
-496	|	:x:	|	---
-497	|	:x:	|	---
-498	|	:x:	|	---
-499	|	:x:	|	---
-500	|	:x:	|	---
-501	|	:x:	|	---
-502	|	:x:	|	---
-503	|	:x:	|	---
-504	|	:x:	|	---
-505	|	:x:	|	---
-506	|	:x:	|	---
-507	|	:x:	|	---
-508	|	:x:	|	---
-509	|	:x:	|	---
-510	|	:x:	|	---
-511	|	:x:	|	---
-512	|	:x:	|	---
-513	|	:x:	|	---
-514	|	:x:	|	---
-515	|	:x:	|	---
-516	|	:x:	|	---
-517	|	:x:	|	---
-518	|	:x:	|	---
-519	|	:x:	|	---
-520	|	:x:	|	---
-521	|	:x:	|	---
-522	|	:x:	|	---
-523	|	:x:	|	---
-524	|	:x:	|	---
-525	|	:x:	|	---
-526	|	:x:	|	---
-527	|	:x:	|	---
-528	|	:x:	|	---
-529	|	:x:	|	---
-530	|	:x:	|	---
-531	|	:x:	|	---
-532	|	:x:	|	---
-533	|	:x:	|	---
-534	|	:x:	|	---
-535	|	:x:	|	---
-536	|	:x:	|	---
-537	|	:x:	|	---
-538	|	:x:	|	---
-539	|	:x:	|	---
-540	|	:x:	|	---
-541	|	:x:	|	---
-542	|	:x:	|	---
-543	|	:x:	|	---
-544	|	:x:	|	---
-545	|	:x:	|	---
-546	|	:x:	|	---
-547	|	:x:	|	---
-548	|	:x:	|	---
-549	|	:x:	|	---
-550	|	:x:	|	---
-551	|	:x:	|	---
-552	|	:x:	|	---
-553	|	:x:	|	---
-554	|	:x:	|	---
-555	|	:x:	|	---
-556	|	:x:	|	---
-557	|	:x:	|	---
-558	|	:x:	|	---
-559	|	:x:	|	---
-560	|	:x:	|	---
-561	|	:x:	|	---
-562	|	:x:	|	---
-563	|	:x:	|	---
-564	|	:x:	|	---
-565	|	:x:	|	---
-566	|	:x:	|	---
-567	|	:x:	|	---
-568	|	:x:	|	---
-569	|	:x:	|	---
-570	|	:x:	|	---
-571	|	:x:	|	---
-572	|	:x:	|	---
-573	|	:x:	|	---
-574	|	:x:	|	---
-575	|	:x:	|	---
-576	|	:x:	|	---
-577	|	:x:	|	---
-578	|	:x:	|	---
-579	|	:x:	|	---
-580	|	:x:	|	---
-581	|	:x:	|	---
-582	|	:x:	|	---
-583	|	:x:	|	---
-584	|	:x:	|	---
-585	|	:x:	|	---
-586	|	:x:	|	---
-587	|	:x:	|	---
-588	|	:x:	|	---
-589	|	:x:	|	---
-590	|	:x:	|	---
-591	|	:x:	|	---
-592	|	:x:	|	---
-593	|	:x:	|	---
-594	|	:x:	|	---
-595	|	:x:	|	---
-596	|	:x:	|	---
-597	|	:x:	|	---
-598	|	:x:	|	---
-599	|	:x:	|	---
-600	|	:x:	|	---
-601	|	:x:	|	---
-602	|	:x:	|	---
-603	|	:x:	|	---
-604	|	:x:	|	---
-605	|	:x:	|	---
-606	|	:x:	|	---
-607	|	:x:	|	---
-608	|	:x:	|	---
-609	|	:x:	|	---
-610	|	:x:	|	---
-611	|	:x:	|	---
-612	|	:x:	|	---
-613	|	:x:	|	---
-614	|	:x:	|	---
-615	|	:x:	|	---
-616	|	:x:	|	---
-617	|	:x:	|	---
-618	|	:x:	|	---
-619	|	:x:	|	---
-620	|	:x:	|	---
-621	|	:x:	|	---
-622	|	:x:	|	---
-623	|	:x:	|	---
-624	|	:x:	|	---
-625	|	:x:	|	---
-626	|	:x:	|	---
-627	|	:x:	|	---
-628	|	:x:	|	---
-629	|	:x:	|	---
-630	|	:x:	|	---
-631	|	:x:	|	---
-632	|	:x:	|	---
-633	|	:x:	|	---
-634	|	:x:	|	---
-635	|	:x:	|	---
-636	|	:x:	|	---
-637	|	:x:	|	---
-638	|	:x:	|	---
-639	|	:x:	|	---
-640	|	:x:	|	---
-641	|	:x:	|	---
-642	|	:x:	|	---
-643	|	:x:	|	---
-644	|	:x:	|	---
-645	|	:x:	|	---
-646	|	:x:	|	---
-647	|	:x:	|	---
-648	|	:x:	|	---
-649	|	:x:	|	---
-650	|	:x:	|	---
-651	|	:x:	|	---
-652	|	:x:	|	---
-653	|	:x:	|	---
-654	|	:x:	|	---
-655	|	:x:	|	---
-656	|	:x:	|	---
-657	|	:x:	|	---
-658	|	:x:	|	---
-659	|	:x:	|	---
-660	|	:x:	|	---
-661	|	:x:	|	---
-662	|	:x:	|	---
-663	|	:x:	|	---
-664	|	:x:	|	---
-665	|	:x:	|	---
-666	|	:x:	|	---
-667	|	:x:	|	---
-668	|	:x:	|	---
-669	|	:x:	|	---
-670	|	:x:	|	---
-671	|	:x:	|	---
-672	|	:x:	|	---
-673	|	:x:	|	---
-674	|	:x:	|	---
-675	|	:x:	|	---
-676	|	:x:	|	---
-677	|	:x:	|	---
-678	|	:x:	|	---
-679	|	:x:	|	---
-680	|	:x:	|	---
-681	|	:x:	|	---
-682	|	:x:	|	---
-683	|	:x:	|	---
-684	|	:x:	|	---
-685	|	:x:	|	---
-686	|	:x:	|	---
-687	|	:x:	|	---
-688	|	:x:	|	---
-689	|	:x:	|	---
-690	|	:x:	|	---
-691	|	:x:	|	---
-692	|	:x:	|	---
-693	|	:x:	|	---
-694	|	:x:	|	---
-695	|	:x:	|	---
-696	|	:x:	|	---
-697	|	:x:	|	---
-698	|	:x:	|	---
-699	|	:x:	|	---
-700	|	:x:	|	---
-701	|	:x:	|	---
-702	|	:x:	|	---
-703	|	:x:	|	---
-704	|	:x:	|	---
-705	|	:x:	|	---
-706	|	:x:	|	---
-707	|	:x:	|	---
-708	|	:x:	|	---
-709	|	:x:	|	---
-710	|	:x:	|	---
-711	|	:x:	|	---
-712	|	:x:	|	---
-713	|	:x:	|	---
-714	|	:x:	|	---
-715	|	:x:	|	---
-716	|	:x:	|	---
-717	|	:x:	|	---
-718	|	:x:	|	---
-719	|	:x:	|	---
-720	|	:x:	|	---
-721	|	:x:	|	---
+[ 1 - Multiples of 3 and 5](Problem_1/main.cpp) | :heavy_check_mark: | Sun, 25 Oct 2020
+[ 2	 - Even Fibonacci numbers]	(Problem_	2	/main.cpp) | :heavy_check_mark: | Tue, 27 Oct 2020
+[ 3	 - Largest prime factor]	(Problem_	3	/main.cpp) | :heavy_check_mark: | Tue, 27 Oct 2020
+[	4	 - Largest palindrome product]	(Problem_	4	/main.cpp) | :heavy_check_mark: | Sun, 25 Oct 2020
+[	5	 - Smallest multiple]	(Problem_	5	/main.cpp) | :heavy_check_mark: | Wed, 28 Oct 2020
+[	6	 - Problem title]	(Problem_	6	/main.cpp) 	| :x: |	---
+[	7	 - Problem title]	(Problem_	7	/main.cpp) 	| :x: |	---
+[	8	 - Problem title]	(Problem_	8	/main.cpp) 	| :x: |	---
+[	9	 - Problem title]	(Problem_	9	/main.cpp) 	| :x: |	---
+[	10	 - Problem title]	(Problem_	10	/main.cpp) 	| :x: |	---
+[	11	 - Problem title]	(Problem_	11	/main.cpp) 	| :x: |	---
+[	12	 - Problem title]	(Problem_	12	/main.cpp) 	| :x: |	---
+[	13	 - Problem title]	(Problem_	13	/main.cpp) 	| :x: |	---
+[	14	 - Problem title]	(Problem_	14	/main.cpp) 	| :x: |	---
+[	15	 - Problem title]	(Problem_	15	/main.cpp) 	| :x: |	---
+[	16	 - Problem title]	(Problem_	16	/main.cpp) 	| :x: |	---
+[	17	 - Problem title]	(Problem_	17	/main.cpp) 	| :x: |	---
+[	18	 - Problem title]	(Problem_	18	/main.cpp) 	| :x: |	---
+[	19	 - Problem title]	(Problem_	19	/main.cpp) 	| :x: |	---
+[	20	 - Problem title]	(Problem_	20	/main.cpp) 	| :x: |	---
+[	21	 - Problem title]	(Problem_	21	/main.cpp) 	| :x: |	---
+[	22	 - Problem title]	(Problem_	22	/main.cpp) 	| :x: |	---
+[	23	 - Problem title]	(Problem_	23	/main.cpp) 	| :x: |	---
+[	24	 - Problem title]	(Problem_	24	/main.cpp) 	| :x: |	---
+[	25	 - Problem title]	(Problem_	25	/main.cpp) 	| :x: |	---
+[	26	 - Problem title]	(Problem_	26	/main.cpp) 	| :x: |	---
+[	27	 - Problem title]	(Problem_	27	/main.cpp) 	| :x: |	---
+[	28	 - Problem title]	(Problem_	28	/main.cpp) 	| :x: |	---
+[	29	 - Problem title]	(Problem_	29	/main.cpp) 	| :x: |	---
+[	30	 - Problem title]	(Problem_	30	/main.cpp) 	| :x: |	---
+[	31	 - Problem title]	(Problem_	31	/main.cpp) 	| :x: |	---
+[	32	 - Problem title]	(Problem_	32	/main.cpp) 	| :x: |	---
+[	33	 - Problem title]	(Problem_	33	/main.cpp) 	| :x: |	---
+[	34	 - Problem title]	(Problem_	34	/main.cpp) 	| :x: |	---
+[	35	 - Problem title]	(Problem_	35	/main.cpp) 	| :x: |	---
+[	36	 - Problem title]	(Problem_	36	/main.cpp) 	| :x: |	---
+[	37	 - Problem title]	(Problem_	37	/main.cpp) 	| :x: |	---
+[	38	 - Problem title]	(Problem_	38	/main.cpp) 	| :x: |	---
+[	39	 - Problem title]	(Problem_	39	/main.cpp) 	| :x: |	---
+[	40	 - Problem title]	(Problem_	40	/main.cpp) 	| :x: |	---
+[	41	 - Problem title]	(Problem_	41	/main.cpp) 	| :x: |	---
+[	42	 - Problem title]	(Problem_	42	/main.cpp) 	| :x: |	---
+[	43	 - Problem title]	(Problem_	43	/main.cpp) 	| :x: |	---
+[	44	 - Problem title]	(Problem_	44	/main.cpp) 	| :x: |	---
+[	45	 - Problem title]	(Problem_	45	/main.cpp) 	| :x: |	---
+[	46	 - Problem title]	(Problem_	46	/main.cpp) 	| :x: |	---
+[	47	 - Problem title]	(Problem_	47	/main.cpp) 	| :x: |	---
+[	48	 - Problem title]	(Problem_	48	/main.cpp) 	| :x: |	---
+[	49	 - Problem title]	(Problem_	49	/main.cpp) 	| :x: |	---
+[	50	 - Problem title]	(Problem_	50	/main.cpp) 	| :x: |	---
+[	51	 - Problem title]	(Problem_	51	/main.cpp) 	| :x: |	---
+[	52	 - Problem title]	(Problem_	52	/main.cpp) 	| :x: |	---
+[	53	 - Problem title]	(Problem_	53	/main.cpp) 	| :x: |	---
+[	54	 - Problem title]	(Problem_	54	/main.cpp) 	| :x: |	---
+[	55	 - Problem title]	(Problem_	55	/main.cpp) 	| :x: |	---
+[	56	 - Problem title]	(Problem_	56	/main.cpp) 	| :x: |	---
+[	57	 - Problem title]	(Problem_	57	/main.cpp) 	| :x: |	---
+[	58	 - Problem title]	(Problem_	58	/main.cpp) 	| :x: |	---
+[	59	 - Problem title]	(Problem_	59	/main.cpp) 	| :x: |	---
+[	60	 - Problem title]	(Problem_	60	/main.cpp) 	| :x: |	---
+[	61	 - Problem title]	(Problem_	61	/main.cpp) 	| :x: |	---
+[	62	 - Problem title]	(Problem_	62	/main.cpp) 	| :x: |	---
+[	63	 - Problem title]	(Problem_	63	/main.cpp) 	| :x: |	---
+[	64	 - Problem title]	(Problem_	64	/main.cpp) 	| :x: |	---
+[	65	 - Problem title]	(Problem_	65	/main.cpp) 	| :x: |	---
+[	66	 - Problem title]	(Problem_	66	/main.cpp) 	| :x: |	---
+[	67	 - Problem title]	(Problem_	67	/main.cpp) 	| :x: |	---
+[	68	 - Problem title]	(Problem_	68	/main.cpp) 	| :x: |	---
+[	69	 - Problem title]	(Problem_	69	/main.cpp) 	| :x: |	---
+[	70	 - Problem title]	(Problem_	70	/main.cpp) 	| :x: |	---
+[	71	 - Problem title]	(Problem_	71	/main.cpp) 	| :x: |	---
+[	72	 - Problem title]	(Problem_	72	/main.cpp) 	| :x: |	---
+[	73	 - Problem title]	(Problem_	73	/main.cpp) 	| :x: |	---
+[	74	 - Problem title]	(Problem_	74	/main.cpp) 	| :x: |	---
+[	75	 - Problem title]	(Problem_	75	/main.cpp) 	| :x: |	---
+[	76	 - Problem title]	(Problem_	76	/main.cpp) 	| :x: |	---
+[	77	 - Problem title]	(Problem_	77	/main.cpp) 	| :x: |	---
+[	78	 - Problem title]	(Problem_	78	/main.cpp) 	| :x: |	---
+[	79	 - Problem title]	(Problem_	79	/main.cpp) 	| :x: |	---
+[	80	 - Problem title]	(Problem_	80	/main.cpp) 	| :x: |	---
+[	81	 - Problem title]	(Problem_	81	/main.cpp) 	| :x: |	---
+[	82	 - Problem title]	(Problem_	82	/main.cpp) 	| :x: |	---
+[	83	 - Problem title]	(Problem_	83	/main.cpp) 	| :x: |	---
+[	84	 - Problem title]	(Problem_	84	/main.cpp) 	| :x: |	---
+[	85	 - Problem title]	(Problem_	85	/main.cpp) 	| :x: |	---
+[	86	 - Problem title]	(Problem_	86	/main.cpp) 	| :x: |	---
+[	87	 - Problem title]	(Problem_	87	/main.cpp) 	| :x: |	---
+[	88	 - Problem title]	(Problem_	88	/main.cpp) 	| :x: |	---
+[	89	 - Problem title]	(Problem_	89	/main.cpp) 	| :x: |	---
+[	90	 - Problem title]	(Problem_	90	/main.cpp) 	| :x: |	---
+[	91	 - Problem title]	(Problem_	91	/main.cpp) 	| :x: |	---
+[	92	 - Problem title]	(Problem_	92	/main.cpp) 	| :x: |	---
+[	93	 - Problem title]	(Problem_	93	/main.cpp) 	| :x: |	---
+[	94	 - Problem title]	(Problem_	94	/main.cpp) 	| :x: |	---
+[	95	 - Problem title]	(Problem_	95	/main.cpp) 	| :x: |	---
+[	96	 - Problem title]	(Problem_	96	/main.cpp) 	| :x: |	---
+[	97	 - Problem title]	(Problem_	97	/main.cpp) 	| :x: |	---
+[	98	 - Problem title]	(Problem_	98	/main.cpp) 	| :x: |	---
+[	99	 - Problem title]	(Problem_	99	/main.cpp) 	| :x: |	---
+[	100	 - Problem title]	(Problem_	100	/main.cpp) 	| :x: |	---
+[	101	 - Problem title]	(Problem_	101	/main.cpp) 	| :x: |	---
+[	102	 - Problem title]	(Problem_	102	/main.cpp) 	| :x: |	---
+[	103	 - Problem title]	(Problem_	103	/main.cpp) 	| :x: |	---
+[	104	 - Problem title]	(Problem_	104	/main.cpp) 	| :x: |	---
+[	105	 - Problem title]	(Problem_	105	/main.cpp) 	| :x: |	---
+[	106	 - Problem title]	(Problem_	106	/main.cpp) 	| :x: |	---
+[	107	 - Problem title]	(Problem_	107	/main.cpp) 	| :x: |	---
+[	108	 - Problem title]	(Problem_	108	/main.cpp) 	| :x: |	---
+[	109	 - Problem title]	(Problem_	109	/main.cpp) 	| :x: |	---
+[	110	 - Problem title]	(Problem_	110	/main.cpp) 	| :x: |	---
+[	111	 - Problem title]	(Problem_	111	/main.cpp) 	| :x: |	---
+[	112	 - Problem title]	(Problem_	112	/main.cpp) 	| :x: |	---
+[	113	 - Problem title]	(Problem_	113	/main.cpp) 	| :x: |	---
+[	114	 - Problem title]	(Problem_	114	/main.cpp) 	| :x: |	---
+[	115	 - Problem title]	(Problem_	115	/main.cpp) 	| :x: |	---
+[	116	 - Problem title]	(Problem_	116	/main.cpp) 	| :x: |	---
+[	117	 - Problem title]	(Problem_	117	/main.cpp) 	| :x: |	---
+[	118	 - Problem title]	(Problem_	118	/main.cpp) 	| :x: |	---
+[	119	 - Problem title]	(Problem_	119	/main.cpp) 	| :x: |	---
+[	120	 - Problem title]	(Problem_	120	/main.cpp) 	| :x: |	---
+[	121	 - Problem title]	(Problem_	121	/main.cpp) 	| :x: |	---
+[	122	 - Problem title]	(Problem_	122	/main.cpp) 	| :x: |	---
+[	123	 - Problem title]	(Problem_	123	/main.cpp) 	| :x: |	---
+[	124	 - Problem title]	(Problem_	124	/main.cpp) 	| :x: |	---
+[	125	 - Problem title]	(Problem_	125	/main.cpp) 	| :x: |	---
+[	126	 - Problem title]	(Problem_	126	/main.cpp) 	| :x: |	---
+[	127	 - Problem title]	(Problem_	127	/main.cpp) 	| :x: |	---
+[	128	 - Problem title]	(Problem_	128	/main.cpp) 	| :x: |	---
+[	129	 - Problem title]	(Problem_	129	/main.cpp) 	| :x: |	---
+[	130	 - Problem title]	(Problem_	130	/main.cpp) 	| :x: |	---
+[	131	 - Problem title]	(Problem_	131	/main.cpp) 	| :x: |	---
+[	132	 - Problem title]	(Problem_	132	/main.cpp) 	| :x: |	---
+[	133	 - Problem title]	(Problem_	133	/main.cpp) 	| :x: |	---
+[	134	 - Problem title]	(Problem_	134	/main.cpp) 	| :x: |	---
+[	135	 - Problem title]	(Problem_	135	/main.cpp) 	| :x: |	---
+[	136	 - Problem title]	(Problem_	136	/main.cpp) 	| :x: |	---
+[	137	 - Problem title]	(Problem_	137	/main.cpp) 	| :x: |	---
+[	138	 - Problem title]	(Problem_	138	/main.cpp) 	| :x: |	---
+[	139	 - Problem title]	(Problem_	139	/main.cpp) 	| :x: |	---
+[	140	 - Problem title]	(Problem_	140	/main.cpp) 	| :x: |	---
+[	141	 - Problem title]	(Problem_	141	/main.cpp) 	| :x: |	---
+[	142	 - Problem title]	(Problem_	142	/main.cpp) 	| :x: |	---
+[	143	 - Problem title]	(Problem_	143	/main.cpp) 	| :x: |	---
+[	144	 - Problem title]	(Problem_	144	/main.cpp) 	| :x: |	---
+[	145	 - Problem title]	(Problem_	145	/main.cpp) 	| :x: |	---
+[	146	 - Problem title]	(Problem_	146	/main.cpp) 	| :x: |	---
+[	147	 - Problem title]	(Problem_	147	/main.cpp) 	| :x: |	---
+[	148	 - Problem title]	(Problem_	148	/main.cpp) 	| :x: |	---
+[	149	 - Problem title]	(Problem_	149	/main.cpp) 	| :x: |	---
+[	150	 - Problem title]	(Problem_	150	/main.cpp) 	| :x: |	---
+[	151	 - Problem title]	(Problem_	151	/main.cpp) 	| :x: |	---
+[	152	 - Problem title]	(Problem_	152	/main.cpp) 	| :x: |	---
+[	153	 - Problem title]	(Problem_	153	/main.cpp) 	| :x: |	---
+[	154	 - Problem title]	(Problem_	154	/main.cpp) 	| :x: |	---
+[	155	 - Problem title]	(Problem_	155	/main.cpp) 	| :x: |	---
+[	156	 - Problem title]	(Problem_	156	/main.cpp) 	| :x: |	---
+[	157	 - Problem title]	(Problem_	157	/main.cpp) 	| :x: |	---
+[	158	 - Problem title]	(Problem_	158	/main.cpp) 	| :x: |	---
+[	159	 - Problem title]	(Problem_	159	/main.cpp) 	| :x: |	---
+[	160	 - Problem title]	(Problem_	160	/main.cpp) 	| :x: |	---
+[	161	 - Problem title]	(Problem_	161	/main.cpp) 	| :x: |	---
+[	162	 - Problem title]	(Problem_	162	/main.cpp) 	| :x: |	---
+[	163	 - Problem title]	(Problem_	163	/main.cpp) 	| :x: |	---
+[	164	 - Problem title]	(Problem_	164	/main.cpp) 	| :x: |	---
+[	165	 - Problem title]	(Problem_	165	/main.cpp) 	| :x: |	---
+[	166	 - Problem title]	(Problem_	166	/main.cpp) 	| :x: |	---
+[	167	 - Problem title]	(Problem_	167	/main.cpp) 	| :x: |	---
+[	168	 - Problem title]	(Problem_	168	/main.cpp) 	| :x: |	---
+[	169	 - Problem title]	(Problem_	169	/main.cpp) 	| :x: |	---
+[	170	 - Problem title]	(Problem_	170	/main.cpp) 	| :x: |	---
+[	171	 - Problem title]	(Problem_	171	/main.cpp) 	| :x: |	---
+[	172	 - Problem title]	(Problem_	172	/main.cpp) 	| :x: |	---
+[	173	 - Problem title]	(Problem_	173	/main.cpp) 	| :x: |	---
+[	174	 - Problem title]	(Problem_	174	/main.cpp) 	| :x: |	---
+[	175	 - Problem title]	(Problem_	175	/main.cpp) 	| :x: |	---
+[	176	 - Problem title]	(Problem_	176	/main.cpp) 	| :x: |	---
+[	177	 - Problem title]	(Problem_	177	/main.cpp) 	| :x: |	---
+[	178	 - Problem title]	(Problem_	178	/main.cpp) 	| :x: |	---
+[	179	 - Problem title]	(Problem_	179	/main.cpp) 	| :x: |	---
+[	180	 - Problem title]	(Problem_	180	/main.cpp) 	| :x: |	---
+[	181	 - Problem title]	(Problem_	181	/main.cpp) 	| :x: |	---
+[	182	 - Problem title]	(Problem_	182	/main.cpp) 	| :x: |	---
+[	183	 - Problem title]	(Problem_	183	/main.cpp) 	| :x: |	---
+[	184	 - Problem title]	(Problem_	184	/main.cpp) 	| :x: |	---
+[	185	 - Problem title]	(Problem_	185	/main.cpp) 	| :x: |	---
+[	186	 - Problem title]	(Problem_	186	/main.cpp) 	| :x: |	---
+[	187	 - Problem title]	(Problem_	187	/main.cpp) 	| :x: |	---
+[	188	 - Problem title]	(Problem_	188	/main.cpp) 	| :x: |	---
+[	189	 - Problem title]	(Problem_	189	/main.cpp) 	| :x: |	---
+[	190	 - Problem title]	(Problem_	190	/main.cpp) 	| :x: |	---
+[	191	 - Problem title]	(Problem_	191	/main.cpp) 	| :x: |	---
+[	192	 - Problem title]	(Problem_	192	/main.cpp) 	| :x: |	---
+[	193	 - Problem title]	(Problem_	193	/main.cpp) 	| :x: |	---
+[	194	 - Problem title]	(Problem_	194	/main.cpp) 	| :x: |	---
+[	195	 - Problem title]	(Problem_	195	/main.cpp) 	| :x: |	---
+[	196	 - Problem title]	(Problem_	196	/main.cpp) 	| :x: |	---
+[	197	 - Problem title]	(Problem_	197	/main.cpp) 	| :x: |	---
+[	198	 - Problem title]	(Problem_	198	/main.cpp) 	| :x: |	---
+[	199	 - Problem title]	(Problem_	199	/main.cpp) 	| :x: |	---
+[	200	 - Problem title]	(Problem_	200	/main.cpp) 	| :x: |	---
+[	201	 - Problem title]	(Problem_	201	/main.cpp) 	| :x: |	---
+[	202	 - Problem title]	(Problem_	202	/main.cpp) 	| :x: |	---
+[	203	 - Problem title]	(Problem_	203	/main.cpp) 	| :x: |	---
+[	204	 - Problem title]	(Problem_	204	/main.cpp) 	| :x: |	---
+[	205	 - Problem title]	(Problem_	205	/main.cpp) 	| :x: |	---
+[	206	 - Problem title]	(Problem_	206	/main.cpp) 	| :x: |	---
+[	207	 - Problem title]	(Problem_	207	/main.cpp) 	| :x: |	---
+[	208	 - Problem title]	(Problem_	208	/main.cpp) 	| :x: |	---
+[	209	 - Problem title]	(Problem_	209	/main.cpp) 	| :x: |	---
+[	210	 - Problem title]	(Problem_	210	/main.cpp) 	| :x: |	---
+[	211	 - Problem title]	(Problem_	211	/main.cpp) 	| :x: |	---
+[	212	 - Problem title]	(Problem_	212	/main.cpp) 	| :x: |	---
+[	213	 - Problem title]	(Problem_	213	/main.cpp) 	| :x: |	---
+[	214	 - Problem title]	(Problem_	214	/main.cpp) 	| :x: |	---
+[	215	 - Problem title]	(Problem_	215	/main.cpp) 	| :x: |	---
+[	216	 - Problem title]	(Problem_	216	/main.cpp) 	| :x: |	---
+[	217	 - Problem title]	(Problem_	217	/main.cpp) 	| :x: |	---
+[	218	 - Problem title]	(Problem_	218	/main.cpp) 	| :x: |	---
+[	219	 - Problem title]	(Problem_	219	/main.cpp) 	| :x: |	---
+[	220	 - Problem title]	(Problem_	220	/main.cpp) 	| :x: |	---
+[	221	 - Problem title]	(Problem_	221	/main.cpp) 	| :x: |	---
+[	222	 - Problem title]	(Problem_	222	/main.cpp) 	| :x: |	---
+[	223	 - Problem title]	(Problem_	223	/main.cpp) 	| :x: |	---
+[	224	 - Problem title]	(Problem_	224	/main.cpp) 	| :x: |	---
+[	225	 - Problem title]	(Problem_	225	/main.cpp) 	| :x: |	---
+[	226	 - Problem title]	(Problem_	226	/main.cpp) 	| :x: |	---
+[	227	 - Problem title]	(Problem_	227	/main.cpp) 	| :x: |	---
+[	228	 - Problem title]	(Problem_	228	/main.cpp) 	| :x: |	---
+[	229	 - Problem title]	(Problem_	229	/main.cpp) 	| :x: |	---
+[	230	 - Problem title]	(Problem_	230	/main.cpp) 	| :x: |	---
+[	231	 - Problem title]	(Problem_	231	/main.cpp) 	| :x: |	---
+[	232	 - Problem title]	(Problem_	232	/main.cpp) 	| :x: |	---
+[	233	 - Problem title]	(Problem_	233	/main.cpp) 	| :x: |	---
+[	234	 - Problem title]	(Problem_	234	/main.cpp) 	| :x: |	---
+[	235	 - Problem title]	(Problem_	235	/main.cpp) 	| :x: |	---
+[	236	 - Problem title]	(Problem_	236	/main.cpp) 	| :x: |	---
+[	237	 - Problem title]	(Problem_	237	/main.cpp) 	| :x: |	---
+[	238	 - Problem title]	(Problem_	238	/main.cpp) 	| :x: |	---
+[	239	 - Problem title]	(Problem_	239	/main.cpp) 	| :x: |	---
+[	240	 - Problem title]	(Problem_	240	/main.cpp) 	| :x: |	---
+[	241	 - Problem title]	(Problem_	241	/main.cpp) 	| :x: |	---
+[	242	 - Problem title]	(Problem_	242	/main.cpp) 	| :x: |	---
+[	243	 - Problem title]	(Problem_	243	/main.cpp) 	| :x: |	---
+[	244	 - Problem title]	(Problem_	244	/main.cpp) 	| :x: |	---
+[	245	 - Problem title]	(Problem_	245	/main.cpp) 	| :x: |	---
+[	246	 - Problem title]	(Problem_	246	/main.cpp) 	| :x: |	---
+[	247	 - Problem title]	(Problem_	247	/main.cpp) 	| :x: |	---
+[	248	 - Problem title]	(Problem_	248	/main.cpp) 	| :x: |	---
+[	249	 - Problem title]	(Problem_	249	/main.cpp) 	| :x: |	---
+[	250	 - Problem title]	(Problem_	250	/main.cpp) 	| :x: |	---
+[	251	 - Problem title]	(Problem_	251	/main.cpp) 	| :x: |	---
+[	252	 - Problem title]	(Problem_	252	/main.cpp) 	| :x: |	---
+[	253	 - Problem title]	(Problem_	253	/main.cpp) 	| :x: |	---
+[	254	 - Problem title]	(Problem_	254	/main.cpp) 	| :x: |	---
+[	255	 - Problem title]	(Problem_	255	/main.cpp) 	| :x: |	---
+[	256	 - Problem title]	(Problem_	256	/main.cpp) 	| :x: |	---
+[	257	 - Problem title]	(Problem_	257	/main.cpp) 	| :x: |	---
+[	258	 - Problem title]	(Problem_	258	/main.cpp) 	| :x: |	---
+[	259	 - Problem title]	(Problem_	259	/main.cpp) 	| :x: |	---
+[	260	 - Problem title]	(Problem_	260	/main.cpp) 	| :x: |	---
+[	261	 - Problem title]	(Problem_	261	/main.cpp) 	| :x: |	---
+[	262	 - Problem title]	(Problem_	262	/main.cpp) 	| :x: |	---
+[	263	 - Problem title]	(Problem_	263	/main.cpp) 	| :x: |	---
+[	264	 - Problem title]	(Problem_	264	/main.cpp) 	| :x: |	---
+[	265	 - Problem title]	(Problem_	265	/main.cpp) 	| :x: |	---
+[	266	 - Problem title]	(Problem_	266	/main.cpp) 	| :x: |	---
+[	267	 - Problem title]	(Problem_	267	/main.cpp) 	| :x: |	---
+[	268	 - Problem title]	(Problem_	268	/main.cpp) 	| :x: |	---
+[	269	 - Problem title]	(Problem_	269	/main.cpp) 	| :x: |	---
+[	270	 - Problem title]	(Problem_	270	/main.cpp) 	| :x: |	---
+[	271	 - Problem title]	(Problem_	271	/main.cpp) 	| :x: |	---
+[	272	 - Problem title]	(Problem_	272	/main.cpp) 	| :x: |	---
+[	273	 - Problem title]	(Problem_	273	/main.cpp) 	| :x: |	---
+[	274	 - Problem title]	(Problem_	274	/main.cpp) 	| :x: |	---
+[	275	 - Problem title]	(Problem_	275	/main.cpp) 	| :x: |	---
+[	276	 - Problem title]	(Problem_	276	/main.cpp) 	| :x: |	---
+[	277	 - Problem title]	(Problem_	277	/main.cpp) 	| :x: |	---
+[	278	 - Problem title]	(Problem_	278	/main.cpp) 	| :x: |	---
+[	279	 - Problem title]	(Problem_	279	/main.cpp) 	| :x: |	---
+[	280	 - Problem title]	(Problem_	280	/main.cpp) 	| :x: |	---
+[	281	 - Problem title]	(Problem_	281	/main.cpp) 	| :x: |	---
+[	282	 - Problem title]	(Problem_	282	/main.cpp) 	| :x: |	---
+[	283	 - Problem title]	(Problem_	283	/main.cpp) 	| :x: |	---
+[	284	 - Problem title]	(Problem_	284	/main.cpp) 	| :x: |	---
+[	285	 - Problem title]	(Problem_	285	/main.cpp) 	| :x: |	---
+[	286	 - Problem title]	(Problem_	286	/main.cpp) 	| :x: |	---
+[	287	 - Problem title]	(Problem_	287	/main.cpp) 	| :x: |	---
+[	288	 - Problem title]	(Problem_	288	/main.cpp) 	| :x: |	---
+[	289	 - Problem title]	(Problem_	289	/main.cpp) 	| :x: |	---
+[	290	 - Problem title]	(Problem_	290	/main.cpp) 	| :x: |	---
+[	291	 - Problem title]	(Problem_	291	/main.cpp) 	| :x: |	---
+[	292	 - Problem title]	(Problem_	292	/main.cpp) 	| :x: |	---
+[	293	 - Problem title]	(Problem_	293	/main.cpp) 	| :x: |	---
+[	294	 - Problem title]	(Problem_	294	/main.cpp) 	| :x: |	---
+[	295	 - Problem title]	(Problem_	295	/main.cpp) 	| :x: |	---
+[	296	 - Problem title]	(Problem_	296	/main.cpp) 	| :x: |	---
+[	297	 - Problem title]	(Problem_	297	/main.cpp) 	| :x: |	---
+[	298	 - Problem title]	(Problem_	298	/main.cpp) 	| :x: |	---
+[	299	 - Problem title]	(Problem_	299	/main.cpp) 	| :x: |	---
+[	300	 - Problem title]	(Problem_	300	/main.cpp) 	| :x: |	---
+[	301	 - Problem title]	(Problem_	301	/main.cpp) 	| :x: |	---
+[	302	 - Problem title]	(Problem_	302	/main.cpp) 	| :x: |	---
+[	303	 - Problem title]	(Problem_	303	/main.cpp) 	| :x: |	---
+[	304	 - Problem title]	(Problem_	304	/main.cpp) 	| :x: |	---
+[	305	 - Problem title]	(Problem_	305	/main.cpp) 	| :x: |	---
+[	306	 - Problem title]	(Problem_	306	/main.cpp) 	| :x: |	---
+[	307	 - Problem title]	(Problem_	307	/main.cpp) 	| :x: |	---
+[	308	 - Problem title]	(Problem_	308	/main.cpp) 	| :x: |	---
+[	309	 - Problem title]	(Problem_	309	/main.cpp) 	| :x: |	---
+[	310	 - Problem title]	(Problem_	310	/main.cpp) 	| :x: |	---
+[	311	 - Problem title]	(Problem_	311	/main.cpp) 	| :x: |	---
+[	312	 - Problem title]	(Problem_	312	/main.cpp) 	| :x: |	---
+[	313	 - Problem title]	(Problem_	313	/main.cpp) 	| :x: |	---
+[	314	 - Problem title]	(Problem_	314	/main.cpp) 	| :x: |	---
+[	315	 - Problem title]	(Problem_	315	/main.cpp) 	| :x: |	---
+[	316	 - Problem title]	(Problem_	316	/main.cpp) 	| :x: |	---
+[	317	 - Problem title]	(Problem_	317	/main.cpp) 	| :x: |	---
+[	318	 - Problem title]	(Problem_	318	/main.cpp) 	| :x: |	---
+[	319	 - Problem title]	(Problem_	319	/main.cpp) 	| :x: |	---
+[	320	 - Problem title]	(Problem_	320	/main.cpp) 	| :x: |	---
+[	321	 - Problem title]	(Problem_	321	/main.cpp) 	| :x: |	---
+[	322	 - Problem title]	(Problem_	322	/main.cpp) 	| :x: |	---
+[	323	 - Problem title]	(Problem_	323	/main.cpp) 	| :x: |	---
+[	324	 - Problem title]	(Problem_	324	/main.cpp) 	| :x: |	---
+[	325	 - Problem title]	(Problem_	325	/main.cpp) 	| :x: |	---
+[	326	 - Problem title]	(Problem_	326	/main.cpp) 	| :x: |	---
+[	327	 - Problem title]	(Problem_	327	/main.cpp) 	| :x: |	---
+[	328	 - Problem title]	(Problem_	328	/main.cpp) 	| :x: |	---
+[	329	 - Problem title]	(Problem_	329	/main.cpp) 	| :x: |	---
+[	330	 - Problem title]	(Problem_	330	/main.cpp) 	| :x: |	---
+[	331	 - Problem title]	(Problem_	331	/main.cpp) 	| :x: |	---
+[	332	 - Problem title]	(Problem_	332	/main.cpp) 	| :x: |	---
+[	333	 - Problem title]	(Problem_	333	/main.cpp) 	| :x: |	---
+[	334	 - Problem title]	(Problem_	334	/main.cpp) 	| :x: |	---
+[	335	 - Problem title]	(Problem_	335	/main.cpp) 	| :x: |	---
+[	336	 - Problem title]	(Problem_	336	/main.cpp) 	| :x: |	---
+[	337	 - Problem title]	(Problem_	337	/main.cpp) 	| :x: |	---
+[	338	 - Problem title]	(Problem_	338	/main.cpp) 	| :x: |	---
+[	339	 - Problem title]	(Problem_	339	/main.cpp) 	| :x: |	---
+[	340	 - Problem title]	(Problem_	340	/main.cpp) 	| :x: |	---
+[	341	 - Problem title]	(Problem_	341	/main.cpp) 	| :x: |	---
+[	342	 - Problem title]	(Problem_	342	/main.cpp) 	| :x: |	---
+[	343	 - Problem title]	(Problem_	343	/main.cpp) 	| :x: |	---
+[	344	 - Problem title]	(Problem_	344	/main.cpp) 	| :x: |	---
+[	345	 - Problem title]	(Problem_	345	/main.cpp) 	| :x: |	---
+[	346	 - Problem title]	(Problem_	346	/main.cpp) 	| :x: |	---
+[	347	 - Problem title]	(Problem_	347	/main.cpp) 	| :x: |	---
+[	348	 - Problem title]	(Problem_	348	/main.cpp) 	| :x: |	---
+[	349	 - Problem title]	(Problem_	349	/main.cpp) 	| :x: |	---
+[	350	 - Problem title]	(Problem_	350	/main.cpp) 	| :x: |	---
+[	351	 - Problem title]	(Problem_	351	/main.cpp) 	| :x: |	---
+[	352	 - Problem title]	(Problem_	352	/main.cpp) 	| :x: |	---
+[	353	 - Problem title]	(Problem_	353	/main.cpp) 	| :x: |	---
+[	354	 - Problem title]	(Problem_	354	/main.cpp) 	| :x: |	---
+[	355	 - Problem title]	(Problem_	355	/main.cpp) 	| :x: |	---
+[	356	 - Problem title]	(Problem_	356	/main.cpp) 	| :x: |	---
+[	357	 - Problem title]	(Problem_	357	/main.cpp) 	| :x: |	---
+[	358	 - Problem title]	(Problem_	358	/main.cpp) 	| :x: |	---
+[	359	 - Problem title]	(Problem_	359	/main.cpp) 	| :x: |	---
+[	360	 - Problem title]	(Problem_	360	/main.cpp) 	| :x: |	---
+[	361	 - Problem title]	(Problem_	361	/main.cpp) 	| :x: |	---
+[	362	 - Problem title]	(Problem_	362	/main.cpp) 	| :x: |	---
+[	363	 - Problem title]	(Problem_	363	/main.cpp) 	| :x: |	---
+[	364	 - Problem title]	(Problem_	364	/main.cpp) 	| :x: |	---
+[	365	 - Problem title]	(Problem_	365	/main.cpp) 	| :x: |	---
+[	366	 - Problem title]	(Problem_	366	/main.cpp) 	| :x: |	---
+[	367	 - Problem title]	(Problem_	367	/main.cpp) 	| :x: |	---
+[	368	 - Problem title]	(Problem_	368	/main.cpp) 	| :x: |	---
+[	369	 - Problem title]	(Problem_	369	/main.cpp) 	| :x: |	---
+[	370	 - Problem title]	(Problem_	370	/main.cpp) 	| :x: |	---
+[	371	 - Problem title]	(Problem_	371	/main.cpp) 	| :x: |	---
+[	372	 - Problem title]	(Problem_	372	/main.cpp) 	| :x: |	---
+[	373	 - Problem title]	(Problem_	373	/main.cpp) 	| :x: |	---
+[	374	 - Problem title]	(Problem_	374	/main.cpp) 	| :x: |	---
+[	375	 - Problem title]	(Problem_	375	/main.cpp) 	| :x: |	---
+[	376	 - Problem title]	(Problem_	376	/main.cpp) 	| :x: |	---
+[	377	 - Problem title]	(Problem_	377	/main.cpp) 	| :x: |	---
+[	378	 - Problem title]	(Problem_	378	/main.cpp) 	| :x: |	---
+[	379	 - Problem title]	(Problem_	379	/main.cpp) 	| :x: |	---
+[	380	 - Problem title]	(Problem_	380	/main.cpp) 	| :x: |	---
+[	381	 - Problem title]	(Problem_	381	/main.cpp) 	| :x: |	---
+[	382	 - Problem title]	(Problem_	382	/main.cpp) 	| :x: |	---
+[	383	 - Problem title]	(Problem_	383	/main.cpp) 	| :x: |	---
+[	384	 - Problem title]	(Problem_	384	/main.cpp) 	| :x: |	---
+[	385	 - Problem title]	(Problem_	385	/main.cpp) 	| :x: |	---
+[	386	 - Problem title]	(Problem_	386	/main.cpp) 	| :x: |	---
+[	387	 - Problem title]	(Problem_	387	/main.cpp) 	| :x: |	---
+[	388	 - Problem title]	(Problem_	388	/main.cpp) 	| :x: |	---
+[	389	 - Problem title]	(Problem_	389	/main.cpp) 	| :x: |	---
+[	390	 - Problem title]	(Problem_	390	/main.cpp) 	| :x: |	---
+[	391	 - Problem title]	(Problem_	391	/main.cpp) 	| :x: |	---
+[	392	 - Problem title]	(Problem_	392	/main.cpp) 	| :x: |	---
+[	393	 - Problem title]	(Problem_	393	/main.cpp) 	| :x: |	---
+[	394	 - Problem title]	(Problem_	394	/main.cpp) 	| :x: |	---
+[	395	 - Problem title]	(Problem_	395	/main.cpp) 	| :x: |	---
+[	396	 - Problem title]	(Problem_	396	/main.cpp) 	| :x: |	---
+[	397	 - Problem title]	(Problem_	397	/main.cpp) 	| :x: |	---
+[	398	 - Problem title]	(Problem_	398	/main.cpp) 	| :x: |	---
+[	399	 - Problem title]	(Problem_	399	/main.cpp) 	| :x: |	---
+[	400	 - Problem title]	(Problem_	400	/main.cpp) 	| :x: |	---
+[	401	 - Problem title]	(Problem_	401	/main.cpp) 	| :x: |	---
+[	402	 - Problem title]	(Problem_	402	/main.cpp) 	| :x: |	---
+[	403	 - Problem title]	(Problem_	403	/main.cpp) 	| :x: |	---
+[	404	 - Problem title]	(Problem_	404	/main.cpp) 	| :x: |	---
+[	405	 - Problem title]	(Problem_	405	/main.cpp) 	| :x: |	---
+[	406	 - Problem title]	(Problem_	406	/main.cpp) 	| :x: |	---
+[	407	 - Problem title]	(Problem_	407	/main.cpp) 	| :x: |	---
+[	408	 - Problem title]	(Problem_	408	/main.cpp) 	| :x: |	---
+[	409	 - Problem title]	(Problem_	409	/main.cpp) 	| :x: |	---
+[	410	 - Problem title]	(Problem_	410	/main.cpp) 	| :x: |	---
+[	411	 - Problem title]	(Problem_	411	/main.cpp) 	| :x: |	---
+[	412	 - Problem title]	(Problem_	412	/main.cpp) 	| :x: |	---
+[	413	 - Problem title]	(Problem_	413	/main.cpp) 	| :x: |	---
+[	414	 - Problem title]	(Problem_	414	/main.cpp) 	| :x: |	---
+[	415	 - Problem title]	(Problem_	415	/main.cpp) 	| :x: |	---
+[	416	 - Problem title]	(Problem_	416	/main.cpp) 	| :x: |	---
+[	417	 - Problem title]	(Problem_	417	/main.cpp) 	| :x: |	---
+[	418	 - Problem title]	(Problem_	418	/main.cpp) 	| :x: |	---
+[	419	 - Problem title]	(Problem_	419	/main.cpp) 	| :x: |	---
+[	420	 - Problem title]	(Problem_	420	/main.cpp) 	| :x: |	---
+[	421	 - Problem title]	(Problem_	421	/main.cpp) 	| :x: |	---
+[	422	 - Problem title]	(Problem_	422	/main.cpp) 	| :x: |	---
+[	423	 - Problem title]	(Problem_	423	/main.cpp) 	| :x: |	---
+[	424	 - Problem title]	(Problem_	424	/main.cpp) 	| :x: |	---
+[	425	 - Problem title]	(Problem_	425	/main.cpp) 	| :x: |	---
+[	426	 - Problem title]	(Problem_	426	/main.cpp) 	| :x: |	---
+[	427	 - Problem title]	(Problem_	427	/main.cpp) 	| :x: |	---
+[	428	 - Problem title]	(Problem_	428	/main.cpp) 	| :x: |	---
+[	429	 - Problem title]	(Problem_	429	/main.cpp) 	| :x: |	---
+[	430	 - Problem title]	(Problem_	430	/main.cpp) 	| :x: |	---
+[	431	 - Problem title]	(Problem_	431	/main.cpp) 	| :x: |	---
+[	432	 - Problem title]	(Problem_	432	/main.cpp) 	| :x: |	---
+[	433	 - Problem title]	(Problem_	433	/main.cpp) 	| :x: |	---
+[	434	 - Problem title]	(Problem_	434	/main.cpp) 	| :x: |	---
+[	435	 - Problem title]	(Problem_	435	/main.cpp) 	| :x: |	---
+[	436	 - Problem title]	(Problem_	436	/main.cpp) 	| :x: |	---
+[	437	 - Problem title]	(Problem_	437	/main.cpp) 	| :x: |	---
+[	438	 - Problem title]	(Problem_	438	/main.cpp) 	| :x: |	---
+[	439	 - Problem title]	(Problem_	439	/main.cpp) 	| :x: |	---
+[	440	 - Problem title]	(Problem_	440	/main.cpp) 	| :x: |	---
+[	441	 - Problem title]	(Problem_	441	/main.cpp) 	| :x: |	---
+[	442	 - Problem title]	(Problem_	442	/main.cpp) 	| :x: |	---
+[	443	 - Problem title]	(Problem_	443	/main.cpp) 	| :x: |	---
+[	444	 - Problem title]	(Problem_	444	/main.cpp) 	| :x: |	---
+[	445	 - Problem title]	(Problem_	445	/main.cpp) 	| :x: |	---
+[	446	 - Problem title]	(Problem_	446	/main.cpp) 	| :x: |	---
+[	447	 - Problem title]	(Problem_	447	/main.cpp) 	| :x: |	---
+[	448	 - Problem title]	(Problem_	448	/main.cpp) 	| :x: |	---
+[	449	 - Problem title]	(Problem_	449	/main.cpp) 	| :x: |	---
+[	450	 - Problem title]	(Problem_	450	/main.cpp) 	| :x: |	---
+[	451	 - Problem title]	(Problem_	451	/main.cpp) 	| :x: |	---
+[	452	 - Problem title]	(Problem_	452	/main.cpp) 	| :x: |	---
+[	453	 - Problem title]	(Problem_	453	/main.cpp) 	| :x: |	---
+[	454	 - Problem title]	(Problem_	454	/main.cpp) 	| :x: |	---
+[	455	 - Problem title]	(Problem_	455	/main.cpp) 	| :x: |	---
+[	456	 - Problem title]	(Problem_	456	/main.cpp) 	| :x: |	---
+[	457	 - Problem title]	(Problem_	457	/main.cpp) 	| :x: |	---
+[	458	 - Problem title]	(Problem_	458	/main.cpp) 	| :x: |	---
+[	459	 - Problem title]	(Problem_	459	/main.cpp) 	| :x: |	---
+[	460	 - Problem title]	(Problem_	460	/main.cpp) 	| :x: |	---
+[	461	 - Problem title]	(Problem_	461	/main.cpp) 	| :x: |	---
+[	462	 - Problem title]	(Problem_	462	/main.cpp) 	| :x: |	---
+[	463	 - Problem title]	(Problem_	463	/main.cpp) 	| :x: |	---
+[	464	 - Problem title]	(Problem_	464	/main.cpp) 	| :x: |	---
+[	465	 - Problem title]	(Problem_	465	/main.cpp) 	| :x: |	---
+[	466	 - Problem title]	(Problem_	466	/main.cpp) 	| :x: |	---
+[	467	 - Problem title]	(Problem_	467	/main.cpp) 	| :x: |	---
+[	468	 - Problem title]	(Problem_	468	/main.cpp) 	| :x: |	---
+[	469	 - Problem title]	(Problem_	469	/main.cpp) 	| :x: |	---
+[	470	 - Problem title]	(Problem_	470	/main.cpp) 	| :x: |	---
+[	471	 - Problem title]	(Problem_	471	/main.cpp) 	| :x: |	---
+[	472	 - Problem title]	(Problem_	472	/main.cpp) 	| :x: |	---
+[	473	 - Problem title]	(Problem_	473	/main.cpp) 	| :x: |	---
+[	474	 - Problem title]	(Problem_	474	/main.cpp) 	| :x: |	---
+[	475	 - Problem title]	(Problem_	475	/main.cpp) 	| :x: |	---
+[	476	 - Problem title]	(Problem_	476	/main.cpp) 	| :x: |	---
+[	477	 - Problem title]	(Problem_	477	/main.cpp) 	| :x: |	---
+[	478	 - Problem title]	(Problem_	478	/main.cpp) 	| :x: |	---
+[	479	 - Problem title]	(Problem_	479	/main.cpp) 	| :x: |	---
+[	480	 - Problem title]	(Problem_	480	/main.cpp) 	| :x: |	---
+[	481	 - Problem title]	(Problem_	481	/main.cpp) 	| :x: |	---
+[	482	 - Problem title]	(Problem_	482	/main.cpp) 	| :x: |	---
+[	483	 - Problem title]	(Problem_	483	/main.cpp) 	| :x: |	---
+[	484	 - Problem title]	(Problem_	484	/main.cpp) 	| :x: |	---
+[	485	 - Problem title]	(Problem_	485	/main.cpp) 	| :x: |	---
+[	486	 - Problem title]	(Problem_	486	/main.cpp) 	| :x: |	---
+[	487	 - Problem title]	(Problem_	487	/main.cpp) 	| :x: |	---
+[	488	 - Problem title]	(Problem_	488	/main.cpp) 	| :x: |	---
+[	489	 - Problem title]	(Problem_	489	/main.cpp) 	| :x: |	---
+[	490	 - Problem title]	(Problem_	490	/main.cpp) 	| :x: |	---
+[	491	 - Problem title]	(Problem_	491	/main.cpp) 	| :x: |	---
+[	492	 - Problem title]	(Problem_	492	/main.cpp) 	| :x: |	---
+[	493	 - Problem title]	(Problem_	493	/main.cpp) 	| :x: |	---
+[	494	 - Problem title]	(Problem_	494	/main.cpp) 	| :x: |	---
+[	495	 - Problem title]	(Problem_	495	/main.cpp) 	| :x: |	---
+[	496	 - Problem title]	(Problem_	496	/main.cpp) 	| :x: |	---
+[	497	 - Problem title]	(Problem_	497	/main.cpp) 	| :x: |	---
+[	498	 - Problem title]	(Problem_	498	/main.cpp) 	| :x: |	---
+[	499	 - Problem title]	(Problem_	499	/main.cpp) 	| :x: |	---
+[	500	 - Problem title]	(Problem_	500	/main.cpp) 	| :x: |	---
+[	501	 - Problem title]	(Problem_	501	/main.cpp) 	| :x: |	---
+[	502	 - Problem title]	(Problem_	502	/main.cpp) 	| :x: |	---
+[	503	 - Problem title]	(Problem_	503	/main.cpp) 	| :x: |	---
+[	504	 - Problem title]	(Problem_	504	/main.cpp) 	| :x: |	---
+[	505	 - Problem title]	(Problem_	505	/main.cpp) 	| :x: |	---
+[	506	 - Problem title]	(Problem_	506	/main.cpp) 	| :x: |	---
+[	507	 - Problem title]	(Problem_	507	/main.cpp) 	| :x: |	---
+[	508	 - Problem title]	(Problem_	508	/main.cpp) 	| :x: |	---
+[	509	 - Problem title]	(Problem_	509	/main.cpp) 	| :x: |	---
+[	510	 - Problem title]	(Problem_	510	/main.cpp) 	| :x: |	---
+[	511	 - Problem title]	(Problem_	511	/main.cpp) 	| :x: |	---
+[	512	 - Problem title]	(Problem_	512	/main.cpp) 	| :x: |	---
+[	513	 - Problem title]	(Problem_	513	/main.cpp) 	| :x: |	---
+[	514	 - Problem title]	(Problem_	514	/main.cpp) 	| :x: |	---
+[	515	 - Problem title]	(Problem_	515	/main.cpp) 	| :x: |	---
+[	516	 - Problem title]	(Problem_	516	/main.cpp) 	| :x: |	---
+[	517	 - Problem title]	(Problem_	517	/main.cpp) 	| :x: |	---
+[	518	 - Problem title]	(Problem_	518	/main.cpp) 	| :x: |	---
+[	519	 - Problem title]	(Problem_	519	/main.cpp) 	| :x: |	---
+[	520	 - Problem title]	(Problem_	520	/main.cpp) 	| :x: |	---
+[	521	 - Problem title]	(Problem_	521	/main.cpp) 	| :x: |	---
+[	522	 - Problem title]	(Problem_	522	/main.cpp) 	| :x: |	---
+[	523	 - Problem title]	(Problem_	523	/main.cpp) 	| :x: |	---
+[	524	 - Problem title]	(Problem_	524	/main.cpp) 	| :x: |	---
+[	525	 - Problem title]	(Problem_	525	/main.cpp) 	| :x: |	---
+[	526	 - Problem title]	(Problem_	526	/main.cpp) 	| :x: |	---
+[	527	 - Problem title]	(Problem_	527	/main.cpp) 	| :x: |	---
+[	528	 - Problem title]	(Problem_	528	/main.cpp) 	| :x: |	---
+[	529	 - Problem title]	(Problem_	529	/main.cpp) 	| :x: |	---
+[	530	 - Problem title]	(Problem_	530	/main.cpp) 	| :x: |	---
+[	531	 - Problem title]	(Problem_	531	/main.cpp) 	| :x: |	---
+[	532	 - Problem title]	(Problem_	532	/main.cpp) 	| :x: |	---
+[	533	 - Problem title]	(Problem_	533	/main.cpp) 	| :x: |	---
+[	534	 - Problem title]	(Problem_	534	/main.cpp) 	| :x: |	---
+[	535	 - Problem title]	(Problem_	535	/main.cpp) 	| :x: |	---
+[	536	 - Problem title]	(Problem_	536	/main.cpp) 	| :x: |	---
+[	537	 - Problem title]	(Problem_	537	/main.cpp) 	| :x: |	---
+[	538	 - Problem title]	(Problem_	538	/main.cpp) 	| :x: |	---
+[	539	 - Problem title]	(Problem_	539	/main.cpp) 	| :x: |	---
+[	540	 - Problem title]	(Problem_	540	/main.cpp) 	| :x: |	---
+[	541	 - Problem title]	(Problem_	541	/main.cpp) 	| :x: |	---
+[	542	 - Problem title]	(Problem_	542	/main.cpp) 	| :x: |	---
+[	543	 - Problem title]	(Problem_	543	/main.cpp) 	| :x: |	---
+[	544	 - Problem title]	(Problem_	544	/main.cpp) 	| :x: |	---
+[	545	 - Problem title]	(Problem_	545	/main.cpp) 	| :x: |	---
+[	546	 - Problem title]	(Problem_	546	/main.cpp) 	| :x: |	---
+[	547	 - Problem title]	(Problem_	547	/main.cpp) 	| :x: |	---
+[	548	 - Problem title]	(Problem_	548	/main.cpp) 	| :x: |	---
+[	549	 - Problem title]	(Problem_	549	/main.cpp) 	| :x: |	---
+[	550	 - Problem title]	(Problem_	550	/main.cpp) 	| :x: |	---
+[	551	 - Problem title]	(Problem_	551	/main.cpp) 	| :x: |	---
+[	552	 - Problem title]	(Problem_	552	/main.cpp) 	| :x: |	---
+[	553	 - Problem title]	(Problem_	553	/main.cpp) 	| :x: |	---
+[	554	 - Problem title]	(Problem_	554	/main.cpp) 	| :x: |	---
+[	555	 - Problem title]	(Problem_	555	/main.cpp) 	| :x: |	---
+[	556	 - Problem title]	(Problem_	556	/main.cpp) 	| :x: |	---
+[	557	 - Problem title]	(Problem_	557	/main.cpp) 	| :x: |	---
+[	558	 - Problem title]	(Problem_	558	/main.cpp) 	| :x: |	---
+[	559	 - Problem title]	(Problem_	559	/main.cpp) 	| :x: |	---
+[	560	 - Problem title]	(Problem_	560	/main.cpp) 	| :x: |	---
+[	561	 - Problem title]	(Problem_	561	/main.cpp) 	| :x: |	---
+[	562	 - Problem title]	(Problem_	562	/main.cpp) 	| :x: |	---
+[	563	 - Problem title]	(Problem_	563	/main.cpp) 	| :x: |	---
+[	564	 - Problem title]	(Problem_	564	/main.cpp) 	| :x: |	---
+[	565	 - Problem title]	(Problem_	565	/main.cpp) 	| :x: |	---
+[	566	 - Problem title]	(Problem_	566	/main.cpp) 	| :x: |	---
+[	567	 - Problem title]	(Problem_	567	/main.cpp) 	| :x: |	---
+[	568	 - Problem title]	(Problem_	568	/main.cpp) 	| :x: |	---
+[	569	 - Problem title]	(Problem_	569	/main.cpp) 	| :x: |	---
+[	570	 - Problem title]	(Problem_	570	/main.cpp) 	| :x: |	---
+[	571	 - Problem title]	(Problem_	571	/main.cpp) 	| :x: |	---
+[	572	 - Problem title]	(Problem_	572	/main.cpp) 	| :x: |	---
+[	573	 - Problem title]	(Problem_	573	/main.cpp) 	| :x: |	---
+[	574	 - Problem title]	(Problem_	574	/main.cpp) 	| :x: |	---
+[	575	 - Problem title]	(Problem_	575	/main.cpp) 	| :x: |	---
+[	576	 - Problem title]	(Problem_	576	/main.cpp) 	| :x: |	---
+[	577	 - Problem title]	(Problem_	577	/main.cpp) 	| :x: |	---
+[	578	 - Problem title]	(Problem_	578	/main.cpp) 	| :x: |	---
+[	579	 - Problem title]	(Problem_	579	/main.cpp) 	| :x: |	---
+[	580	 - Problem title]	(Problem_	580	/main.cpp) 	| :x: |	---
+[	581	 - Problem title]	(Problem_	581	/main.cpp) 	| :x: |	---
+[	582	 - Problem title]	(Problem_	582	/main.cpp) 	| :x: |	---
+[	583	 - Problem title]	(Problem_	583	/main.cpp) 	| :x: |	---
+[	584	 - Problem title]	(Problem_	584	/main.cpp) 	| :x: |	---
+[	585	 - Problem title]	(Problem_	585	/main.cpp) 	| :x: |	---
+[	586	 - Problem title]	(Problem_	586	/main.cpp) 	| :x: |	---
+[	587	 - Problem title]	(Problem_	587	/main.cpp) 	| :x: |	---
+[	588	 - Problem title]	(Problem_	588	/main.cpp) 	| :x: |	---
+[	589	 - Problem title]	(Problem_	589	/main.cpp) 	| :x: |	---
+[	590	 - Problem title]	(Problem_	590	/main.cpp) 	| :x: |	---
+[	591	 - Problem title]	(Problem_	591	/main.cpp) 	| :x: |	---
+[	592	 - Problem title]	(Problem_	592	/main.cpp) 	| :x: |	---
+[	593	 - Problem title]	(Problem_	593	/main.cpp) 	| :x: |	---
+[	594	 - Problem title]	(Problem_	594	/main.cpp) 	| :x: |	---
+[	595	 - Problem title]	(Problem_	595	/main.cpp) 	| :x: |	---
+[	596	 - Problem title]	(Problem_	596	/main.cpp) 	| :x: |	---
+[	597	 - Problem title]	(Problem_	597	/main.cpp) 	| :x: |	---
+[	598	 - Problem title]	(Problem_	598	/main.cpp) 	| :x: |	---
+[	599	 - Problem title]	(Problem_	599	/main.cpp) 	| :x: |	---
+[	600	 - Problem title]	(Problem_	600	/main.cpp) 	| :x: |	---
+[	601	 - Problem title]	(Problem_	601	/main.cpp) 	| :x: |	---
+[	602	 - Problem title]	(Problem_	602	/main.cpp) 	| :x: |	---
+[	603	 - Problem title]	(Problem_	603	/main.cpp) 	| :x: |	---
+[	604	 - Problem title]	(Problem_	604	/main.cpp) 	| :x: |	---
+[	605	 - Problem title]	(Problem_	605	/main.cpp) 	| :x: |	---
+[	606	 - Problem title]	(Problem_	606	/main.cpp) 	| :x: |	---
+[	607	 - Problem title]	(Problem_	607	/main.cpp) 	| :x: |	---
+[	608	 - Problem title]	(Problem_	608	/main.cpp) 	| :x: |	---
+[	609	 - Problem title]	(Problem_	609	/main.cpp) 	| :x: |	---
+[	610	 - Problem title]	(Problem_	610	/main.cpp) 	| :x: |	---
+[	611	 - Problem title]	(Problem_	611	/main.cpp) 	| :x: |	---
+[	612	 - Problem title]	(Problem_	612	/main.cpp) 	| :x: |	---
+[	613	 - Problem title]	(Problem_	613	/main.cpp) 	| :x: |	---
+[	614	 - Problem title]	(Problem_	614	/main.cpp) 	| :x: |	---
+[	615	 - Problem title]	(Problem_	615	/main.cpp) 	| :x: |	---
+[	616	 - Problem title]	(Problem_	616	/main.cpp) 	| :x: |	---
+[	617	 - Problem title]	(Problem_	617	/main.cpp) 	| :x: |	---
+[	618	 - Problem title]	(Problem_	618	/main.cpp) 	| :x: |	---
+[	619	 - Problem title]	(Problem_	619	/main.cpp) 	| :x: |	---
+[	620	 - Problem title]	(Problem_	620	/main.cpp) 	| :x: |	---
+[	621	 - Problem title]	(Problem_	621	/main.cpp) 	| :x: |	---
+[	622	 - Problem title]	(Problem_	622	/main.cpp) 	| :x: |	---
+[	623	 - Problem title]	(Problem_	623	/main.cpp) 	| :x: |	---
+[	624	 - Problem title]	(Problem_	624	/main.cpp) 	| :x: |	---
+[	625	 - Problem title]	(Problem_	625	/main.cpp) 	| :x: |	---
+[	626	 - Problem title]	(Problem_	626	/main.cpp) 	| :x: |	---
+[	627	 - Problem title]	(Problem_	627	/main.cpp) 	| :x: |	---
+[	628	 - Problem title]	(Problem_	628	/main.cpp) 	| :x: |	---
+[	629	 - Problem title]	(Problem_	629	/main.cpp) 	| :x: |	---
+[	630	 - Problem title]	(Problem_	630	/main.cpp) 	| :x: |	---
+[	631	 - Problem title]	(Problem_	631	/main.cpp) 	| :x: |	---
+[	632	 - Problem title]	(Problem_	632	/main.cpp) 	| :x: |	---
+[	633	 - Problem title]	(Problem_	633	/main.cpp) 	| :x: |	---
+[	634	 - Problem title]	(Problem_	634	/main.cpp) 	| :x: |	---
+[	635	 - Problem title]	(Problem_	635	/main.cpp) 	| :x: |	---
+[	636	 - Problem title]	(Problem_	636	/main.cpp) 	| :x: |	---
+[	637	 - Problem title]	(Problem_	637	/main.cpp) 	| :x: |	---
+[	638	 - Problem title]	(Problem_	638	/main.cpp) 	| :x: |	---
+[	639	 - Problem title]	(Problem_	639	/main.cpp) 	| :x: |	---
+[	640	 - Problem title]	(Problem_	640	/main.cpp) 	| :x: |	---
+[	641	 - Problem title]	(Problem_	641	/main.cpp) 	| :x: |	---
+[	642	 - Problem title]	(Problem_	642	/main.cpp) 	| :x: |	---
+[	643	 - Problem title]	(Problem_	643	/main.cpp) 	| :x: |	---
+[	644	 - Problem title]	(Problem_	644	/main.cpp) 	| :x: |	---
+[	645	 - Problem title]	(Problem_	645	/main.cpp) 	| :x: |	---
+[	646	 - Problem title]	(Problem_	646	/main.cpp) 	| :x: |	---
+[	647	 - Problem title]	(Problem_	647	/main.cpp) 	| :x: |	---
+[	648	 - Problem title]	(Problem_	648	/main.cpp) 	| :x: |	---
+[	649	 - Problem title]	(Problem_	649	/main.cpp) 	| :x: |	---
+[	650	 - Problem title]	(Problem_	650	/main.cpp) 	| :x: |	---
+[	651	 - Problem title]	(Problem_	651	/main.cpp) 	| :x: |	---
+[	652	 - Problem title]	(Problem_	652	/main.cpp) 	| :x: |	---
+[	653	 - Problem title]	(Problem_	653	/main.cpp) 	| :x: |	---
+[	654	 - Problem title]	(Problem_	654	/main.cpp) 	| :x: |	---
+[	655	 - Problem title]	(Problem_	655	/main.cpp) 	| :x: |	---
+[	656	 - Problem title]	(Problem_	656	/main.cpp) 	| :x: |	---
+[	657	 - Problem title]	(Problem_	657	/main.cpp) 	| :x: |	---
+[	658	 - Problem title]	(Problem_	658	/main.cpp) 	| :x: |	---
+[	659	 - Problem title]	(Problem_	659	/main.cpp) 	| :x: |	---
+[	660	 - Problem title]	(Problem_	660	/main.cpp) 	| :x: |	---
+[	661	 - Problem title]	(Problem_	661	/main.cpp) 	| :x: |	---
+[	662	 - Problem title]	(Problem_	662	/main.cpp) 	| :x: |	---
+[	663	 - Problem title]	(Problem_	663	/main.cpp) 	| :x: |	---
+[	664	 - Problem title]	(Problem_	664	/main.cpp) 	| :x: |	---
+[	665	 - Problem title]	(Problem_	665	/main.cpp) 	| :x: |	---
+[	666	 - Problem title]	(Problem_	666	/main.cpp) 	| :x: |	---
+[	667	 - Problem title]	(Problem_	667	/main.cpp) 	| :x: |	---
+[	668	 - Problem title]	(Problem_	668	/main.cpp) 	| :x: |	---
+[	669	 - Problem title]	(Problem_	669	/main.cpp) 	| :x: |	---
+[	670	 - Problem title]	(Problem_	670	/main.cpp) 	| :x: |	---
+[	671	 - Problem title]	(Problem_	671	/main.cpp) 	| :x: |	---
+[	672	 - Problem title]	(Problem_	672	/main.cpp) 	| :x: |	---
+[	673	 - Problem title]	(Problem_	673	/main.cpp) 	| :x: |	---
+[	674	 - Problem title]	(Problem_	674	/main.cpp) 	| :x: |	---
+[	675	 - Problem title]	(Problem_	675	/main.cpp) 	| :x: |	---
+[	676	 - Problem title]	(Problem_	676	/main.cpp) 	| :x: |	---
+[	677	 - Problem title]	(Problem_	677	/main.cpp) 	| :x: |	---
+[	678	 - Problem title]	(Problem_	678	/main.cpp) 	| :x: |	---
+[	679	 - Problem title]	(Problem_	679	/main.cpp) 	| :x: |	---
+[	680	 - Problem title]	(Problem_	680	/main.cpp) 	| :x: |	---
+[	681	 - Problem title]	(Problem_	681	/main.cpp) 	| :x: |	---
+[	682	 - Problem title]	(Problem_	682	/main.cpp) 	| :x: |	---
+[	683	 - Problem title]	(Problem_	683	/main.cpp) 	| :x: |	---
+[	684	 - Problem title]	(Problem_	684	/main.cpp) 	| :x: |	---
+[	685	 - Problem title]	(Problem_	685	/main.cpp) 	| :x: |	---
+[	686	 - Problem title]	(Problem_	686	/main.cpp) 	| :x: |	---
+[	687	 - Problem title]	(Problem_	687	/main.cpp) 	| :x: |	---
+[	688	 - Problem title]	(Problem_	688	/main.cpp) 	| :x: |	---
+[	689	 - Problem title]	(Problem_	689	/main.cpp) 	| :x: |	---
+[	690	 - Problem title]	(Problem_	690	/main.cpp) 	| :x: |	---
+[	691	 - Problem title]	(Problem_	691	/main.cpp) 	| :x: |	---
+[	692	 - Problem title]	(Problem_	692	/main.cpp) 	| :x: |	---
+[	693	 - Problem title]	(Problem_	693	/main.cpp) 	| :x: |	---
+[	694	 - Problem title]	(Problem_	694	/main.cpp) 	| :x: |	---
+[	695	 - Problem title]	(Problem_	695	/main.cpp) 	| :x: |	---
+[	696	 - Problem title]	(Problem_	696	/main.cpp) 	| :x: |	---
+[	697	 - Problem title]	(Problem_	697	/main.cpp) 	| :x: |	---
+[	698	 - Problem title]	(Problem_	698	/main.cpp) 	| :x: |	---
+[	699	 - Problem title]	(Problem_	699	/main.cpp) 	| :x: |	---
+[	700	 - Problem title]	(Problem_	700	/main.cpp) 	| :x: |	---
+[	701	 - Problem title]	(Problem_	701	/main.cpp) 	| :x: |	---
+[	702	 - Problem title]	(Problem_	702	/main.cpp) 	| :x: |	---
+[	703	 - Problem title]	(Problem_	703	/main.cpp) 	| :x: |	---
+[	704	 - Problem title]	(Problem_	704	/main.cpp) 	| :x: |	---
+[	705	 - Problem title]	(Problem_	705	/main.cpp) 	| :x: |	---
+[	706	 - Problem title]	(Problem_	706	/main.cpp) 	| :x: |	---
+[	707	 - Problem title]	(Problem_	707	/main.cpp) 	| :x: |	---
+[	708	 - Problem title]	(Problem_	708	/main.cpp) 	| :x: |	---
+[	709	 - Problem title]	(Problem_	709	/main.cpp) 	| :x: |	---
+[	710	 - Problem title]	(Problem_	710	/main.cpp) 	| :x: |	---
+[	711	 - Problem title]	(Problem_	711	/main.cpp) 	| :x: |	---
+[	712	 - Problem title]	(Problem_	712	/main.cpp) 	| :x: |	---
+[	713	 - Problem title]	(Problem_	713	/main.cpp) 	| :x: |	---
+[	714	 - Problem title]	(Problem_	714	/main.cpp) 	| :x: |	---
+[	715	 - Problem title]	(Problem_	715	/main.cpp) 	| :x: |	---
+[	716	 - Problem title]	(Problem_	716	/main.cpp) 	| :x: |	---
+[	717	 - Problem title]	(Problem_	717	/main.cpp) 	| :x: |	---
+[	718	 - Problem title]	(Problem_	718	/main.cpp) 	| :x: |	---
+[	719	 - Problem title]	(Problem_	719	/main.cpp) 	| :x: |	---
+[	720	 - Problem title]	(Problem_	720	/main.cpp) 	| :x: |	---
+[	721	 - Problem title]	(Problem_	721	/main.cpp) 	| :x: |	---
