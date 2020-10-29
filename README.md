@@ -1,4 +1,4 @@
-## ProjectEuler
+# ProjectEuler
 My own solutions to the series of computational problems from the website [Project Euler](https://projecteuler.net/).
 
 This is how I started learning C++ ! :computer:
@@ -7,7 +7,7 @@ This is how I started learning C++ ! :computer:
 
 :dart: target : get 50 solved by 31 Dec 2020
 
-# List of problems :
+## List of problems :
 
 Problem | Solved | Date
 :---:|:---:|---
