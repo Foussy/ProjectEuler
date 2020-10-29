@@ -3,11 +3,13 @@ My own solutions to the series of computational problems from the website [Proje
 
 This is how I started learning C++ ! :computer:
 
+## Progress & Milestones
+
 :pushpin: problems solved : 5 / 721
 
 :dart: target : get 50 solved by 31 Dec 2020
 
-## List of problems :
+## List of problems
 
 Problem | Solved | Date
 :---:|:---:|---
