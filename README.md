@@ -8,7 +8,7 @@ This is how I started learning C++ ! :computer:
 :pushpin: problems solved : 5 / 721
 
 :dart: targets : 
-** [] get 50 solved by 31 Dec 2020
+..* [ ] get 50 solved by 31 Dec 2020
 
 ## List of problems
 
