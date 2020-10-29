@@ -7,6 +7,8 @@ This is how I started learning C++ ! :computer:
 
 :dart: target : get 50 solved by 31 Dec 2020
 
+# List of problems :
+
 Problem | Solved | Date
 :---:|:---:|---
 [ 1 - Multiples of 3 and 5](Problem_1/main.cpp) | :heavy_check_mark: | Sun, 25 Oct 2020
