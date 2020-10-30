@@ -21,11 +21,12 @@ int umpteenthPrime(int n)
     {
         if (isPrime(i) == true)
         {
-            
+
         }
-        
+        i++;
     } while ();
-    
+
+    return primeList{-1};
 }
 
 int main()
