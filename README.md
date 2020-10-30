@@ -12,7 +12,7 @@ This is how I started learning C++ ! :computer:
 ## List of problems
 
 Problem | Solved | Date
-:---:|:---:|---
+:---|:---:|---
 [1 - Multiples of 3 and 5](Problem_1/main.cpp)|:heavy_check_mark:| Sun, 25 Oct 2020
 [2 - Even Fibonacci numbers](Problem_2/main.cpp)|:heavy_check_mark:| Tue, 27 Oct 2020
 [3 - Largest prime factor](Problem_3/main.cpp)|:heavy_check_mark:|Tue, 27 Oct 2020
