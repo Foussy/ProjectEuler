@@ -20,3 +20,8 @@ Problem | Solved | Date
 [5 - Smallest multiple](Problem_5/main.cpp) | :heavy_check_mark: | Wed, 28 Oct 2020
 [6 - Sum square difference](Problem_6/main.cpp)|:heavy_check_mark:|Thu, 29 Oct 2020
 [7 - 10001st prime](Problem_7/main.cpp)|:x:|---
+[8 - Largest product in a series](Problem_8/main.cpp)|:x:|---
+[9 - Special Pythagorean triplet](Problem_9/main.cpp)|:x:|---
+[10 - Summation of primes](Problem_10/main.cpp)|:x:|---
+[11 - Largest product in a grid](Problem_11/main.cpp)|:x:|---
+[12 - Highly divisible triangular number](Problem_12/main.cpp)|:x:|---
