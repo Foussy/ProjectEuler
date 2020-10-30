@@ -5,7 +5,7 @@ This is how I started learning C++ ! :computer:
 
 ## Progress & Milestones
 
-:pushpin: problems solved : 5 / 721
+:pushpin: problems solved : 6 / 721
 
 :dart: target : get 50 solved by 31 Dec 2020
 
