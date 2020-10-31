@@ -5,7 +5,7 @@ This is how I started learning C++ ! :computer:
 
 ## Progress & Milestones
 
-:pushpin: problems solved : 6 / 721
+:pushpin: problems solved : 8 / 721
 
 :dart: target : get 50 solved by 31 Dec 2020
 
@@ -19,8 +19,8 @@ Problem | Solved | Date
 [4 - Largest palindrome product](Problem_4/main.cpp)|:heavy_check_mark:|Sun, 25 Oct 2020
 [5 - Smallest multiple](Problem_5/main.cpp) | :heavy_check_mark: | Wed, 28 Oct 2020
 [6 - Sum square difference](Problem_6/main.cpp)|:heavy_check_mark:|Thu, 29 Oct 2020
-[7 - 10001st prime](Problem_7/main.cpp)|:x:|Sat, 31 Oct 2020
-[8 - Largest product in a series](Problem_8/main.cpp)|:x:|Sat, 31 Oct 2020
+[7 - 10001st prime](Problem_7/main.cpp)|:heavy_check_mark:|Sat, 31 Oct 2020
+[8 - Largest product in a series](Problem_8/main.cpp)|:heavy_check_mark:|Sat, 31 Oct 2020
 [9 - Special Pythagorean triplet](Problem_9/main.cpp)|:x:|---
 [10 - Summation of primes](Problem_10/main.cpp)|:x:|---
 [11 - Largest product in a grid](Problem_11/main.cpp)|:x:|---
