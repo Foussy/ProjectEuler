@@ -14,9 +14,7 @@ Find the product abc.
 #include<cmath>
 
 void pythagoreanTriplet()
-{
-    
-}
+{}
 
 int main()
 {
