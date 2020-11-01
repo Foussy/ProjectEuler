@@ -13,6 +13,11 @@ Find the product abc.
 #include<iostream>
 #include<cmath>
 
+void pythagoreanTriplet()
+{
+    
+}
+
 int main()
 {
     std::cout << pow(2, 3) << std::endl;
