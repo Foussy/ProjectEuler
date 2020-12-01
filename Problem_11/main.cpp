@@ -30,7 +30,7 @@ What is the greatest product of four adjacent numbers in the
 same direction (up, down, left, right, or diagonally) in 
 the 20×20 grid?
 
-answer : 
+answer : 70600674
 */
 
 #include<iostream>
@@ -62,22 +62,21 @@ answer :
 long long int biggestProduct()
 {
     long long int biggest = 0;
-    for (int i = 3; i < 18; i++)
+    for (int i = 3; i < 17; i++)
     {
-        for (int j = 3; j < 18; j++)
+        for (int j = 3; j < 17; j++)
         {
             long long int max = std::max(
             {            
-                table[i-3][j-3]*table[i-2][j-2]*table[i-1][j-1],
-                table[i-3][j]  *table[i-2][j]  *table[i-1][j],
-                table[i-3][j+3]*table[i-2][j+2]*table[i-1][j+1],
-                table[i]  [j+3]*table[i]  [j+2]*table[i]  [j+1],
-                table[i+3][j+3]*table[i+2][j+2]*table[i+1][j+1],
-                table[i+3][j]  *table[i+2][j]  *table[i+1][j],
-                table[i+3][j-3]*table[i+2][j-2]*table[i+1][j-1],
-                table[i][j-3]  *table[i]  [j-2]  *table[i]  [j-1],
+                table[i-3][j-3]*table[i-2][j-2]*table[i-1][j-1],    //upper-left
+                table[i-3][j]*table[i-2][j]*table[i-1][j],          //upper
+                table[i-3][j+3]*table[i-2][j+2]*table[i-1][j+1],    //upper-right
+                table[i][j+3]*table[i][j+2]*table[i][j+1],          //right
+                table[i+3][j+3]*table[i+2][j+2]*table[i+1][j+1],    //lower-right
+                table[i+3][j]*table[i+2][j]*table[i+1][j],          //lower
+                table[i+3][j-3]*table[i+2][j-2]*table[i+1][j-1],    //lower-left    
+                table[i][j-3]*table[i][j-2]*table[i][j-1],          //left
             })*table[i][j];
-            std::cout << max << std::endl;
             if(max > biggest){biggest = max;}
         }        
     }

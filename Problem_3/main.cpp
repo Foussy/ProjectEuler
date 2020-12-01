@@ -19,8 +19,7 @@ long long int largestPrimeFactor(long long int n)
         else
         {
             n = n / i;
-        }
-        
+        }        
     } while (i <= n);
     return i;    
 }
