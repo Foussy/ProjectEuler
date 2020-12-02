@@ -37,6 +37,6 @@ long long int sumFirsts(int nDigits, std::vector<std::string> listDigits)
 
 int main()
 {
-    std::cout <<  << std::endl;
+    std::cout << 1 << std::endl;
     return 0;
 }

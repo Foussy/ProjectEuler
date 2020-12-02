@@ -5,9 +5,9 @@ This is how I started learning C++ ! :computer:
 
 ## Progress & Milestones
 
-:pushpin: problems solved : 10 / 721
+:pushpin: problems solved : 12 / 721
 
-:dart: target : get 50 solved by 31 Dec 2020
+:dart: target : get 20 solved by 31 Dec 2020
 
 ## List of problems
 
@@ -23,6 +23,6 @@ Problem | Solved | Date
 [8 - Largest product in a series](Problem_8/main.cpp)|:heavy_check_mark:|Sat, 31 Oct 2020
 [9 - Special Pythagorean triplet](Problem_9/main.cpp)|:heavy_check_mark:|Sun, 01 Nov 2020
 [10 - Summation of primes](Problem_10/main.cpp)|:heavy_check_mark:|Mon, 02 Nov 2020
-[11 - Largest product in a grid](Problem_11/main.cpp)|:x:|---
-[12 - Highly divisible triangular number](Problem_12/main.cpp)|:x:|---
+[11 - Largest product in a grid](Problem_11/main.cpp)|:heavy_check_mark:|Sat, 7 Nov 2020
+[12 - Highly divisible triangular number](Problem_12/main.cpp)|:heavy_check_mark:|Tue, 1 Dec 2020
 [13 - Large sum](Problem_13/main.cpp)|:x:|---
