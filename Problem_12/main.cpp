@@ -22,7 +22,7 @@ number to have over five divisors.
 What is the value of the first triangle 
 number to have over five hundred divisors?
 
-answer : 
+answer : 76576500
 */
 
 #include<iostream>

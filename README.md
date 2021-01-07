@@ -6,8 +6,6 @@ This is how I started learning C++ ! :computer:
 
 :pushpin: problems solved : 12 / 736
 
-:dart: target : get 20 solved by 31 Dec 2020
-
 ## List of problems
 
 Problem | Solved | Execution Time (s) | Date
