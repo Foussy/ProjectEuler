@@ -19,6 +19,7 @@ Let us list the factors of the first
 
 We can see that 28 is the first triangle 
 number to have over five divisors.
+
 What is the value of the first triangle 
 number to have over five hundred divisors?
 
@@ -27,6 +28,7 @@ answer : 76576500
 
 #include<iostream>
 #include<vector>
+#include <stdio.h>
 
 
 
@@ -44,13 +46,15 @@ long long int triangleNumber(int divisors)
                 numDivisors++;
             }            
         }
+        printf("triangle : %d -- number of divisors : %d \n", triangle, numDivisors);
     } while (numDivisors <= divisors);  
     return triangle;
 }
 
 int main()
 {   
-    std::cout << triangleNumber(500) << std::endl;
+    int divisors = 500;
+    printf("The first triangle to have %d divisors is d = %d", divisors, triangleNumber(divisors));;
     return 0;
 }
 

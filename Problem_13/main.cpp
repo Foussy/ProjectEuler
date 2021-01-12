@@ -8,6 +8,9 @@ Work out the first ten digits of the sum of the following one-hundred
 #include <string>
 #include <vector>
 #include <cstring>
+#include <stdio.h>
+
+#include <stdlib.h>
 
 std::vector<std::string> readDigits()
 {
@@ -28,19 +31,20 @@ std::vector<std::string> readDigits()
     return fileContent;
 }
 
-long long int sumFirsts(int nDigits, std::vector<std::string> listDigits)
+long long int sumDigits(std::vector<std::string> listDigits)
 {
+    long long int sum = 0;
     for (auto digits : listDigits)
     {
-        char lastTenDigits[digits.size() + 1];
-        std::strcpy(lastTenDigits, digits.c_str());
-        std::cout << lastTenDigits[-1] << std::endl;
+        char* digit = NULL;
+        sum += strtoll(digits, &digit, 10);
     }
     return 0;
 }
 
 int main()
 {
-    std::cout << sumFirsts(10, readDigits()) << std::endl;
+    sumDigits(readDigits());
+    // printf("the ", sumFirsts(10, readDigits()));
     return 0;
 }
