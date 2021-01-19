@@ -54,7 +54,7 @@ long long int triangleNumber(int divisors)
 int main()
 {   
     int divisors = 500;
-    printf("The first triangle to have %d divisors is d = %d", divisors, triangleNumber(divisors));;
+    printf("The first triangle to have %d divisors is d = %d", divisors, triangleNumber(divisors));
     return 0;
 }
 
